@@ -2,7 +2,7 @@
 
 > Once you start to really **get** CS, these memes/jokes/terminology may become more obvious to you.
 
-[source 1](https://www.quora.com/What-are-some-terms-heard-only-in-programming)
+---
 
 - The child is not responding. Kill it.
 
@@ -16,10 +16,14 @@
 
 - What's the opposite of push? Pop.
 
-[source 2](https://www.quora.com/What-are-the-best-A-programmer-had-a-problem-jokes)
+[source 1](https://www.quora.com/What-are-some-terms-heard-only-in-programming)
+
+---
 
 - A programmer had a problem. He thought to himself, "I know, I'll solve it recursively!" and so a programmer had a problem.
 
 - A programmer has a problem, and thinks "I know, I'll use floating point!" Now they have 1.999999999997 problems.
 
 - A programmer had a problem. He thought "I know, I'll create an API". Now everybody has a problem.
+
+[source 2](https://www.quora.com/What-are-the-best-A-programmer-had-a-problem-jokes)

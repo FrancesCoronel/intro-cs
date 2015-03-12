@@ -2,6 +2,8 @@
 
 > Where we go over why you should appreciate the fact you're cool enough to venture into this field.
 
+---
+
 ## Is a career in CS really worth it?
 
 <span class="quora-content-embed" data-name="Is-a-career-in-computer-science-really-worth-it/answer/Rachel-Fong/quote/2915877">Read <a data-width="541" data-height="320" class="quora-content-link" href="http://www.quora.com/Is-a-career-in-computer-science-really-worth-it/answer/Rachel-Fong/quote/2915877" data-embed="zkrnwmj" data-type="quote" data-id="2915877" data-key="ce663ba9c60fe5e8586a0a712169ea07">Quote of Rachel Fong's answer to Is a career in computer science really worth it?</a> on <a href="http://www.quora.com">Quora</a><script type="text/javascript" src="http://www.quora.com/widgets/content"></script></span>

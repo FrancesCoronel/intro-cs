@@ -4,6 +4,8 @@
 
 > We'll go over more websites, desktop and mobile apps, and miscellanous stuff that might be of use to you as a CS major.
 
+---
+
 ## More Websites
 
 ![](http://sproutsocial.com/insights/wp-content/uploads/2014/03/Quora-and-Brands-Article-Main-Image.png)
@@ -35,6 +37,12 @@ Better looking than [Google Slides](http://slides.google.com) and [PowerPoint]()
 
 Those other platforms mentioned are pretty powerful too, but Prezi deserves a try.
 
+![](https://camo.githubusercontent.com/aaff5164e88291cf2bc33cfbdc259ce4d34935f3/687474703a2f2f692e696d6775722e636f6d2f6a6145626438302e706e67)
+
+### [JavaScript The Right Way](http://jstherightway.org/)
+
+This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.
+
 ![](https://groupme.com/images/logo.png)
 
 ### [GroupMe](https://groupme.com/)
@@ -55,13 +63,13 @@ Sometimes you just need to minify or pretty-print your code. Enter: Alchemize, y
 
 ![](https://d13yacurqjgara.cloudfront.net/users/3093/screenshots/797096/hn-logo-dribbble-shot_1x.png)
 
-## [Hacker News](https://news.ycombinator.com/)
+### [Hacker News](https://news.ycombinator.com/)
 
 Hacker News is a social news website that caters to programmers and entrepreneurs, delivering content related to computer science and entrepreneurship. It is run by Paul Graham's investment fund and startup incubator, Y Combinator. In general, content that can be submitted is defined as "anything that gratifies one's intellectual curiosity".
 
 ![](https://huacm.files.wordpress.com/2015/03/codeivate.png)
 
-## [Codeivate](http://www.codeivate.com/)
+### [Codeivate](http://www.codeivate.com/)
 
 Insight, motivation and benchmarking for programmers.
 
@@ -130,4 +138,3 @@ Easily calculate the cost of a mobile application using this handy tool
 ### [GitHub Hackathon Starter](https://github.com/sahat/hackathon-starter/blob/master/README.md#getting-started)
 
 A boilerplate for Node.js web applications.
-

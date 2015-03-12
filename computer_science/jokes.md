@@ -1,5 +1,9 @@
 # Jokes
 
+> yes, CS got jokes
+
+---
+
 <span class="quora-content-embed" data-name="What-are-the-most-popular-computer-programming-jokes/answer/Bhaumik-Patel-7/quote/2898958">Read <a data-width="541" data-height="248" class="quora-content-link" href="http://www.quora.com/What-are-the-most-popular-computer-programming-jokes/answer/Bhaumik-Patel-7/quote/2898958" data-embed="zkrnwmj" data-type="quote" data-id="2898958" data-key="9b22874c589f8d50938f6fee6d9b8dfb">Quote of Bhaumik Patel's answer to What are the most popular computer programming jokes?</a> on <a href="http://www.quora.com">Quora</a><script type="text/javascript" src="http://www.quora.com/widgets/content"></script></span>
 
 ---

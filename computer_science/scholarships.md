@@ -2,6 +2,8 @@
 
 > Scholarships come and go, but this page will be updated every now and then.
 
+---
+
 ## Find One
 
 ![](https://huacm.files.wordpress.com/2015/03/bigfutureschoship.png)
@@ -10,7 +12,7 @@
 
 ---
 
-## Local
+## Local Scholarships
 
 ![](http://vsgc.odu.edu/graphics/06logo-194.gif)
 

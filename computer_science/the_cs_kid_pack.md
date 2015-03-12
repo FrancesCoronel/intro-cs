@@ -29,6 +29,8 @@ However, **if you're neither a gamer nor a security buff**, then the **OSX combi
 
 If you want **all** the platforms - so some combination of both Windows, Linux, or OSX - that's possible too, so just look into [VirtualBox](https://www.virtualbox.org/) or [Parallels](https://www.parallels.com/)
 
+`Open image in new tab on browser to zoom in`
+
 ![](http://cdn3.carlcheo.com/wp-content/uploads/2015/03/iphone-vs-android-infographic.jpg)
 
 ---
@@ -49,14 +51,23 @@ Build software better, together with GitHub. When you publish your code on GitHu
 
 Also take advantage of what GitHub has to offer you...
 
-- download the [Student Developer Pack](https://education.github.com/pack)) they offer which include the best developer tools, free for students. Make sure to sign up for the Student Pack using your `@my.hamptonu.edu` email.
+- download the [Student Developer Pack](https://education.github.com/pack) GitHub offers which includes the best developer tools, free for students
+
+> make sure to sign up for the Student Pack using your `@my.hamptonu.edu` email.
+
 - [learn how](http://www.thinkful.com/learn/a-guide-to-using-github-pages/) to use [GitHub pages](https://pages.github.com/) to host your website and your project pages
+
+- try out [Gitter](https://gitter.im) which is where GitHub users can chat about projects
+
+- share your code using [Gists](https://gist.github.com/)
+
+- crowdsource a project or team on GitHub with [Gratipay](https://gratipay.com/), which is a platform not directly related to the GitHub family but is used by many GitHub users nonetheless
 
 ### An example of a [killer GitHub profile](https://github.com/addyosmani) for inspiration looks something like this
 
 ![All the code in the world!](https://fvcproductions.files.wordpress.com/2015/03/addyosmani.png)
 
-To be fair, this guy does work on Google Chrome so he has to code everyday, but hey, the more you know.
+To be fair, this guy does work on [Google Chrome](http://google.com/chrome), but hey, the more you know.
 
 ---
 
@@ -80,11 +91,23 @@ Try one of the following for keeping track of your files
 
 ## an IDE
 
-With Java being the language of use for the majority of CS@HU courses, [jGrasp] is recommended by faculty at Hampton but once you're comfortable enough using jGrasp, it's suggested you graduate and move on to IDEs that have more features.
+With Java being the language of use for the majority of CS@HU courses, [jGrasp](http://www.jgrasp.org/) is recommended by faculty at Hampton in beginner courses, but once you're comfortable enough using jGrasp, it's suggested you graduate and move on to IDEs that have more features.
 
 [Eclipse](http://eclipse.org) is free, extensible, and probably as close to an "industry standard" Java IDE as you'll get.
 
 Other popular IDEs include [CodeRunner](https://coderunnerapp.com/), [Netbeans](https://netbeans.org/), [all the ones offered by JetBrains](https://www.jetbrains.com/),  [Xcode](https://developer.apple.com/xcode/), and [Cloud9](https://c9.io/)
+
+---
+
+![](https://wanyingcom125.files.wordpress.com/2014/02/browser-wars.jpg)
+
+## a killer browser
+
+Many claim [Chrome](http://google.com/chrome) is the best for developers thanks to its ease of use, numerous extensions and add-ons, and superb performance.
+
+Others will say [Firefox](https://www.mozilla.org/en-US/firefox/desktop/) instead because it offers so many useful and developer-oriented add-ons.
+
+It's up for you to decide which browser to use in the end, but a piece of advice just about anyone will give you is to do yourself a favor and not use [IE](http://windows.microsoft.com/en-us/internet-explorer/browser-ie#touchweb=touchvidtab1) unless you have some kind of death wish.
 
 ---
 
@@ -94,17 +117,16 @@ Other popular IDEs include [CodeRunner](https://coderunnerapp.com/), [Netbeans](
 
 If you're a developer, a good text editor is a must-have. The humble text editor is great for managing code, writing down quick notes, or just as a distraction-free writing tool. Let's look at some popular ones. [source](http://lifehacker.com/five-best-text-editors-1564907215)
 
-
-- [Sublime Text 3](http://www.sublimetext.com/)
+- [Sublime Text 3](http://www.sublimetext.com/) ($70)
     - Cross-platform and feature packed, Sublime Text is a crowd favorite.
 
-- [Notepad++](http://notepad-plus-plus.org/)
+- [Notepad++](http://notepad-plus-plus.org/) (Free)
     - Notepad++ has been around for a long time, and many users graduate to Notepad++ from Notepad or Wordpad.
 
-- [Vim](http://www.vim.org/)/[Emacs](http://www.gnu.org/software/emacs/)
+- [Vim](http://www.vim.org/)/[Emacs](http://www.gnu.org/software/emacs/) (Free)
     - Winners in Holy Text Editor Grail Wars of the 90's.
 
-- [Atom](https://atom.io/)
+- [Atom](https://atom.io/) (Free)
    - Calling itself a text editor "for the 21st century," Atom earned a lot of praise in the nominations round for being a text editor designed for the needs of today's developers.
 
 ---
@@ -124,7 +146,7 @@ But not just the Google Search Engine, people.
 - [Google Forms](http://forms.google.com)
     - getting responses from club/team members
 - [Inbox](http://inbox.google.com)/[Gmail](http://gmail.com)
-    - because email is still how most people figure out everything
+    - because email is still how most (older) people figure out everything
 
 Also, in terms of google-fu, that's when you really know how to Google the crap out of things, which is really useful since you'll be doing that a lot throughout your CS career.
 
@@ -136,7 +158,7 @@ Also, in terms of google-fu, that's when you really know how to Google the crap 
 
 Now that's useful!
 
-Now find out other cool methods to find things faster. Once you do, it'll save you a **LOT** of time that you used to spend searhcing for something simple.
+Now find out other cool methods to find things faster. Once you do, it'll save you a **LOT** of time that you used to spend searching for something simple.
 
 ---
 
@@ -148,7 +170,9 @@ Now find out other cool methods to find things faster. Once you do, it'll save y
 
 This is not safe and the risk of losing all your files is greater.
 
-In fact, it would be best if you didn't store anything just on your laptop at all, so that if anything happened to it, you wouldn't be freaking out that your data structures project was on there. You'll be able to chill out and access it again in no time.
+In fact, it would be best if you didn't store anything just on your laptop at all, so that if anything happened were to happen to your precious computer, you wouldn't be freaking out over the fact that the programming assignment you spent days was still on there.
+
+No, you wouldn't be freaking out. You're smarter than that. You have cloud storage so you'll be able to chill out and access that ridiculously long assignment again in no time.
 
 Popular cloud options include
 
@@ -158,16 +182,17 @@ Popular cloud options include
 - [Box]()
 - [iCloud Drive]()
 
-
 ---
 
 ![](http://i.kinja-img.com/gawker-media/image/upload/t_original/ytzptqysvsbw0stsrtxm.png)
 
 ## a password manager
 
-No more writing usernames and passwords down in some random notebook.
+No more writing usernames and passwords down in some random notebook, people.
 
-You're going to be creating MANY accounts throughout your CS career. It's time to get something that will generate strong passwords for all those accounts so they don't get hacked into and it's time to stop trying to remember all your passwords.
+You're going to be creating **MANY** accounts throughout your CS career. Seriously, a **TON**. It's time to get something that will generate strong passwords for all those accounts so they don't get hacked into and it's time to stop trying to remember all your passwords.
+
+Just get a bloody password manager.
 
 Popular choices are [Last Pass](https://lastpass.com/) and [1Password](https://agilebits.com/onepassword).
 
@@ -183,7 +208,9 @@ Hampton uses Gmail to send you information announcements, campus events, weather
 
 To keep all your email in one place, simply [forward the emails from your Hampton Gmail account to your main email account](http://www.wikihow.com/Forward-Emails-from-Your-School-Email-Program).
 
-And again, use the built-in apps for mail that your phone/laptop provides. Ergo, the Gmail app for Android/Windows or the Mail app for OSX/iOS. Other mail apps, such as [Mailbox](http://www.mailboxapp.com/) or [Inbox](https://inbox.google.com/?pli=1) that are not provided on your phone/laptop by default are also options, but can become potentially tedious since they are not built in.
+And again, use the built-in apps for mail that your phone/laptop provides. Ergo, the Gmail app for Android/Windows or the Mail app for OSX/iOS.
+
+Other mail apps, such as [Mailbox](http://www.mailboxapp.com/) or [Inbox](https://inbox.google.com/?pli=1) that are not provided on your phone/laptop by default are also options, but can become potentially tedious since they are not built in.
 
 ---
 
@@ -191,7 +218,11 @@ And again, use the built-in apps for mail that your phone/laptop provides. Ergo,
 
 ## a [LinkedIn](http://linkedin.com) account
 
-You need to have a large network so you can use it later and it keeps your resume up to date. What more reasoning do you need?
+You need to have a large network so you can use it later and it keeps your resume up to date.
+
+What more reasoning do you need?
+
+Plus, the majority of HU alumni/students tend to have one. Especially if they're in the business programs.
 
 ---
 
@@ -199,7 +230,7 @@ You need to have a large network so you can use it later and it keeps your resum
 
 ## a [Stack Overflow](http://stackoverflow.com/) account
 
-You'll be consulting this guy for **QUITE** a number of times, so you might as well as accept that and register.
+You'll be consulting this guy for **QUITE** a number of times, so you might as well as accept that fact and register to save time later.
 
 Stack Overflow is a question and answer site for professional and enthusiast programmers.
 
@@ -210,6 +241,3 @@ Stack Overflow is a question and answer site for professional and enthusiast pro
 Wow. Much reputation. Such power.
 
 ![](http://tr1.cbsistatic.com/hub/i/2014/05/15/f8964afd-bd82-4e0e-bcbe-e927363dcdc1/codedoge.jpg)
-
-
-

@@ -45,3 +45,7 @@ Mac OSX, Linux, Windows
 ## LinkedIn
 
 a business-oriented social networking service that reports more than 259 million acquired users in more than 200 countries and territories as of June 2013
+
+## git
+
+Git is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows.

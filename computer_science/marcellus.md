@@ -1,5 +1,0 @@
-# Marcellus A. Williams II
-
-![]()
-
-

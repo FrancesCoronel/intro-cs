@@ -11,11 +11,9 @@
 ### [Eloquent JavaScript](http://eloquentjavascript.net)
 > Eloquent JavaScript goes beyond the cut-and-paste scripts of the recipe books and teaches you to write code that's elegant and effective. You'll start with the basics of programming, and learn to use variables, control structures, functions, and data structures. Then you'll dive into the real JavaScript artistry: higher-order functions, closures, and object-oriented programming.
 
----
-
 ![](http://www.ebook3000.com/upimg/allimg/140207/2105270.jpg)
 
-## [A Smarter Way to Learn JavaScript](http://www.asmarterwaytolearn.com/)
+### [A Smarter Way to Learn JavaScript](http://www.asmarterwaytolearn.com/)
 
 The approach that uses technology to cut your efforts to learn JS in half.
 
@@ -41,11 +39,10 @@ The approach that uses technology to cut your efforts to learn JS in half.
 
 ## Java
 
-![](http://3.bp.blogspot.com/-551eTQTStxE/ThoDWpHamrI/AAAAAAAAACw/ABroRqvSU7s/s1600/HeadFirst.png)
-
+![](https://huacm.files.wordpress.com/2015/03/5133972-e1426017646701.png)
 
 ### [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
-> Head First Java delivers a highly interactive, multisensory learning experience that lets new programmers pick up the fundamentals of the Java language quickly. Through mind-stretching exercises, memorable analogies, humorous pictures, and casual language, Head First Java encourages readers to think like a Java programmer.
+> Head First Java delivers a highly interactive, multi-sensory learning experience that lets new programmers pick up the fundamentals of the Java language quickly. Through mind-stretching exercises, memorable analogies, humorous pictures, and casual language, Head First Java encourages readers to think like a Java programmer.
 
 ---
 

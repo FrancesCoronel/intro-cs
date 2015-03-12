@@ -1,5 +1,10 @@
 {
-    "plugins": [
-        "exercises"
-    ]
+    "gitbook": "2.x.x",
+    "plugins": [],
+    "links": {
+        "sidebar": {
+            "Contact Us": "https://twitter.com/fvcproductions"
+        }
+    },
+    "pluginsConfig": {}
 }

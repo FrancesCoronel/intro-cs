@@ -6,6 +6,8 @@
 
 > Welp, here are some recommendations.
 
+---
+
 ![](http://victorops.com/wp-content/uploads/2014/09/Meetup-logo1.gif)
 
 ## Attend [Meetups](http://meetup.com)
@@ -45,10 +47,10 @@ Cool tech related Meetup groups around the Hampton Roads area include
 
 > — Jessica Hische
 
-Excerpt From: Steal Like an Artist. “Austin Kleon.” iBooks.
-
 1. They don't have to provide you with a living. You can still eat if they fail.
+
 2. They don't have a deadline. And as there is no time pressure, you don't revert to your usual formula. You try new things. You experiment. You take risks.
+
 3. This is a labor of love. You provide the labor and you provide the love. So when you spend time on it, it is because you really want to. That keeps you coming back and pushing it on.
 
 [source](https://medium.com/small-giants/why-side-projects-matter-a024eddad60c)
@@ -59,7 +61,7 @@ Excerpt From: Steal Like an Artist. “Austin Kleon.” iBooks.
 
 ## Hackathons
 
-Popular hackathons that happen around the Hampton Roads area include
+Popular hackathons that happen around the Hampton Roads area include...
 
 ![](http://hackathon.dominionenterprises.com/wp-content/uploads/2014/11/HackU3-logo.png)
 
@@ -87,7 +89,7 @@ Popular hackathons that happen around the Hampton Roads area include
 
 ![](http://ikeahackers.net/wp-content/uploads/blogger/_XGRz6uWGK3I/TRJkma9hlYI/AAAAAAAALh4/BSF3EWI_0jE/s1600/lanbord100lan-733048.jpg)
 
-## LAN Parties
+## Host LAN Parties
 
 > A LAN party is a temporary gathering of people with computers or compatible game consoles, between which they establish a local area network (LAN), primarily for the purpose of playing multiplayer video games. [Wiki](http://en.wikipedia.org/wiki/LAN_party)
 
@@ -114,5 +116,3 @@ Learn programming with a multiplayer live coding strategy game. You're a wizard,
 ## Fight as a [Ruby Warrior](https://www.bloc.io/ruby-warrior#/)
 
 A triumphant quest of adventure, love & destiny all within a few lines of code. Learn Ruby on Rails with Bloc, the world's largest online bootcamp.
-
-

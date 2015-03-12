@@ -2,6 +2,8 @@
 
 > Where we talk about our role in tech.
 
+---
+
 You have may noticed that the title of this section is a bit of a oxymoron. How can minorities be everywhere if they are the minority?
 
 We'll get to that soon.
@@ -10,7 +12,7 @@ But first, let's look at Hampton.
 
 If you're attending *the real HU*,  then perhaps you realize that
 
-> HBCUS are [still] absolutely necessary for Black people as well as for the conscience of the a nation still wrestling with deeply entrenched racism and stratified opportunity structures [source](http://www.ebony.com/news-views/stop-asking-if-hbcus-are-relevant-392#.VPhtFIHF88Y)
+> HBCUS are [still] absolutely necessary for Black people as well as for the conscience of the a nation still wrestling with deeply entrenched racism and stratified opportunity structures. [source](http://www.ebony.com/news-views/stop-asking-if-hbcus-are-relevant-392#.VPhtFIHF88Y)
 
 **But** perhaps what you don't realize is that as a CS major at an HBCU like Hampton, what you do with your future and the role you play in that said future is more important than you think.
 
@@ -18,7 +20,7 @@ So let's break it down.
 
 ---
 
-# 2040
+## 2040
 
 Well, okay, so what's so important about 2040?
 
@@ -42,7 +44,7 @@ The man behind this organization is [Tristan Walker](https://twitter.com/tristan
 
 At this point, you hopefully know what Silicon Valley is.
 
-If not, give the [TV show](http://en.wikipedia.org/wiki/Silicon_Valley_%28TV_series%29) a shot, it's pretty hilarious.
+If not, give the [TV show](http://en.wikipedia.org/wiki/Silicon_Valley_%28TV_series%29) a shot, it is **pretty** hilarious.
 
 ![](http://upload.wikimedia.org/wikipedia/en/3/33/Silicon_valley_title.png)
 
@@ -61,6 +63,3 @@ If you're a minority in tech, you will probably have to try harder than your cou
 **Needless to say, you will have to try harder to achieve the same thing all the time.**
 
 But knowing others are in the same situation will make you stronger and knowing you stood up against the odds makes victory all the sweeter.
-
-
-

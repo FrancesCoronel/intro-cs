@@ -1,4 +1,0 @@
-# Terrill C. Cooke
-
-![]()
-

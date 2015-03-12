@@ -8,11 +8,15 @@
 
 ## AP Exam Credit
 
+`Open image in new tab on browser to zoom in`
+
 ![](https://huacm.files.wordpress.com/2015/03/screenshot-2015-03-06-17-37-49.png)
 
 ---
 
 ## IB Exam Credit
+
+`Open image in new tab on browser to zoom in`
 
 ![](https://huacm.files.wordpress.com/2015/03/screenshot-2015-03-06-17-23-25.png)
 
@@ -27,6 +31,8 @@ Reservations to take a CLEP exam may be made Monday through Friday, 8:30 am to 4
 For questions, please contact Testing Services at (757) 727-5493, or come to the office in 212 Wigwam during the hours mentioned.
 
 The **total cost to take a CLEP exam is $100** (20 for registration, and 80 for the exam), a small price to pay compared the thousands you might spend taking the equivalent course.
+
+`Open image in new tab on browser to zoom in`
 
 ![](https://huacm.files.wordpress.com/2015/03/screenshot-2015-03-06-17-18-26.png)
 
@@ -66,6 +72,8 @@ Students should recognize that while many prior learning experiences are meaning
 
 Credit for prior learning experience is awarded only for comparable courses required of the student's academic major.
 
+---
+
 ## Student Forms
 
 The following documents are available on [HU's website](http://www.hamptonu.edu/docs/student/).
@@ -84,4 +92,3 @@ The following documents are available on [HU's website](http://www.hamptonu.edu/
 - PDF Take Course at Another Institution	As Required
 - Textbook Order
 - Verification Request
-

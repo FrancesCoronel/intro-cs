@@ -6,13 +6,13 @@
 
 > CS@HU - Computer Science at Hampton University
 
-## [Our Official Website](http://huacm.wordpress.com)
+---
 
+## [Our Official Website](http://huacm.wordpress.com)
 
 `huacm.wordpress.com`
 
-
-![Official Website](https://huacm.files.wordpress.com/2015/03/aboutpageshort.png)
+![](https://huacm.files.wordpress.com/2015/03/aboutpageshort.png)
 
 ---
 
@@ -43,5 +43,3 @@
 ### [Instagram](https://instagram.com/acm_hu/)
 
 `instagram.com/acm_hu`
-
-

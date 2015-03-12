@@ -1,10 +1,20 @@
 # Memes
 
-[source 1](https://www.quora.com/What-are-the-most-popular-computer-programming-jokes)
+> the best cartoons, gifs, pictures that describe the programmer lifestyle
+
+`Open image in new tab on browser to zoom in`
 
 ---
 
 ![](https://qph.is.quoracdn.net/main-qimg-5b37217e33bc1c631e394fbc46c920ed?convert_to_webp=true)
+
+---
+
+![](https://qph.is.quoracdn.net/main-qimg-2776209b9d9d72eef92d0910e8c72e13?convert_to_webp=true)
+
+---
+
+![](https://qph.is.quoracdn.net/main-qimg-03f47e936d4e231c85b653eb0de2b457?convert_to_webp=true)
 
 ---
 
@@ -80,4 +90,12 @@
 
 ---
 
+![](https://qph.is.quoracdn.net/main-qimg-4ec904e80eb2031b549fe641255dbde6?convert_to_webp=true)
+
+---
+
+[source 1](https://www.quora.com/What-are-the-most-popular-computer-programming-jokes)
+
 [source 2](https://www.quora.com/What-are-the-best-Computer-Science-memes-that-you-have-ever-come-across)
+
+[source 3](https://www.quora.com/Whats-your-favorite-programming-cartoon-or-comic)

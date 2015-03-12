@@ -2,6 +2,8 @@
 
 > The Chair
 
+---
+
 ![Dr. M](http://img.hamptonu.edu/profile/muhammad_jeana.jpg)
 
 - **Location** Science and Technology 120
@@ -14,7 +16,7 @@ She's the one that will be sending you all the information regarding career fair
 
 She's known for being persuasive, dominating, and straight forward.
 
-For **Spring 2015**, she is teaching or is involved with the following courses:
+**Spring 2015**
 
 - CSC 151: Computer Programming I
 - CSC 251: Data Structure I

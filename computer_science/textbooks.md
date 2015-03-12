@@ -32,7 +32,6 @@ When it comes to textbooks:
 
 ![](http://www.socialhacks.com/wp-content/uploads/2012/01/Buying-Cheap-Textbooks1.jpg)
 
-
 ## Renting Cheap Textbooks
 
 ### [BIGWORDS](http://www.bigwords.com/)
@@ -43,5 +42,3 @@ Finds the sweetest, cheapest textbooks, saves $1,000 annually on average.
 ### [Cheapest Textbooks](http://www.cheapesttextbooks.com/)
 
 This free service scours the internet to help you find the cheapest place to buy used textbooks, new textbooks, rental textbooks, and so on.
-
-
