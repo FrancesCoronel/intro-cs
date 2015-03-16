@@ -10,6 +10,7 @@
 - **Phone** (757) 727-5082
 - **E-mail** chutima.boonthum@hamptonu.edu
 - **Expertise** Natural Language Processing, Intelligent Tutoring System, Information Retrieval, Cognitive Robotics
+- **Nicknames** Dr. B
 
 Like Dr. M, Dr. B also acts as an advisor and oversees ACM@HU.
 

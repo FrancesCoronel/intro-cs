@@ -1,8 +1,11 @@
 {
     "gitbook": "2.x.x",
-    "plugins": [],
+    "plugins": [
+        "anchors"
+    ],
     "links": {
         "sidebar": {
+            "Our Website": "http://hubook.strikingly.com/",
             "Contact Us": "https://twitter.com/fvcproductions"
         }
     },

@@ -4,6 +4,8 @@
 
 ---
 
+![]()
+
 - **Location** Science and Technology 120
 - **Phone** (757) 727-5564
 - **E-mail** justus.nyagwencha@hamptonu.edu

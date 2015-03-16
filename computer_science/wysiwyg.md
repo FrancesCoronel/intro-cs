@@ -1,6 +1,6 @@
 # WYSIWYG
 
-> all-purpose ones only
+> free all-purpose ones only
 
 ---
 

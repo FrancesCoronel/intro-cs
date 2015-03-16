@@ -24,11 +24,12 @@
 
 ## What are some things that programmers and computer scientists know, but most people don't?
 
-[source](https://www.quora.com/What-are-some-things-that-programmers-and-computer-scientists-know-but-most-people-dont)
-
 - Counting starts from zero, not one.
 - Programming is the art of thinking really hard about how to avoid having to think really hard
 - The root is at the top of the tree!
 - Most of the hacking scenes in movies are complete bullshit.
 - HTML is not a programming language and you're not a programmer just because you know how to make a web page.
-- That '=' != '=='
+- That `=` `!=` `==`
+
+[source](https://www.quora.com/What-are-some-things-that-programmers-and-computer-scientists-know-but-most-people-dont)
+

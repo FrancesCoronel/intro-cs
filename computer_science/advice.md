@@ -8,6 +8,8 @@
 
 - A resume isn't that useful in the technical world, but your projects sure are. That's why you must treat your [GitHub](http://github.com) or coding portfolio as your resume instead.
 
+![](https://fvcproductions.files.wordpress.com/2015/03/reminders-calendar.png)
+
 - Work Smarter, Not Harder
     - Start off the day using **5 minutes to manage your schedule** for the rest of the day and week
     - Jot down **to-dos and deadlines on an electronic list** whenever they arise (apps like [Reminders](http://en.wikipedia.org/wiki/Reminders_%28application%29), [Wunderlist](https://www.wunderlist.com/), [Keep](https://keep.google.com/))

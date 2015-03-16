@@ -11,9 +11,29 @@
 
 ---
 
+# Overview
+
+- [a decent laptop and phone](#a-decent-laptop-and-phone)
+- [headphones](#headphones)
+- [a GitHub account](#a-github-account)
+- [Git Version Control](#git-version-control)
+- [an IDE](#an-ide)
+- [a killer browser](#a-killer-browser)
+- [a text editor](#a-text-editor)
+- [google and google-fu](#google-and-google-fu)
+- [cloud storage](#cloud-storage)
+- [a password manager](#a-password-manager)
+- [a mail app](#a-mail-app)
+- [a LinkedIn acocount](#a-linkedin-account)
+- [a Stack Overflow account](#a-stack-overflow-account)
+
+---
+
 ![](http://www.tapscape.com/wp-content/uploads/2014/04/2014-macbook-air-lpddr4-memory.jpeg)
 
-## a decent laptop & phone
+
+
+## a decent laptop and phone
 
 Many students within CS@HU will complain that their laptops are too big to bring to class.
 
@@ -37,7 +57,8 @@ If you want **all** the platforms - so some combination of both Windows, Linux, 
 
 ![](http://store.sony.com/SNYNA_27/pimg/pSNYNA-MDR1RBT_main_enh.png)
 
-## headphones (preferably bluetooth)
+## headphones
+> preferably bluetooth
 
 <span class="quora-content-embed" data-name="Why-do-programmers-wear-headphones-while-programming/answer/John-Clover/quote/2905287">Read <a data-width="541" data-height="399" class="quora-content-link" href="http://www.quora.com/Why-do-programmers-wear-headphones-while-programming/answer/John-Clover/quote/2905287" data-embed="zkrnwmj" data-type="quote" data-id="2905287" data-key="f40c8fc5742054c6d76b8035dc98833c">Quote of John Clover's answer to Why do programmers wear headphones while programming?</a> on <a href="http://www.quora.com">Quora</a><script type="text/javascript" src="http://www.quora.com/widgets/content"></script></span>
 
@@ -158,7 +179,18 @@ Also, in terms of google-fu, that's when you really know how to Google the crap 
 
 Now that's useful!
 
-Now find out other cool methods to find things faster. Once you do, it'll save you a **LOT** of time that you used to spend searching for something simple.
+And if you ever want to find the [`answer to life the universe and everything`](https://www.google.com/webhp?hl=en#hl=en&q=answer+to+the+life+the+universe+and+everything), Google knows that too.
+
+Here's some more fun queries:
+- `do a barrel roll` or `Z or R Twice`
+- `tilt` or `askew`
+- `Anagram`
+- `Define Anagram`
+- `the number of horns on a unicorn`
+- `the loneliest number`
+- `zerg rush`
+
+Now find out [other cool methods](http://www.gizmag.com/google-search-functions/34382/) to find things faster. Once you do, it'll save you a **LOT** of time that you used to spend searching for something simple.
 
 ---
 
