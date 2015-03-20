@@ -13,23 +13,23 @@
 
 # Overview
 
-- [a decent laptop and phone](#a-decent-laptop-and-phone)
-- [headphones](#headphones)
-- [a GitHub account](#a-github-account)
-- [Git Version Control](#git-version-control)
-- [an IDE](#an-ide)
-- [a killer browser](#a-killer-browser)
-- [a text editor](#a-text-editor)
-- [google and google-fu](#google-and-google-fu)
-- [cloud storage](#cloud-storage)
-- [a password manager](#a-password-manager)
-- [a mail app](#a-mail-app)
-- [a LinkedIn acocount](#a-linkedin-account)
-- [a Stack Overflow account](#a-stack-overflow-account)
+- [decent laptop and phone][1]
+- [headphones][2]
+- [GitHub account][3]
+- [Git Version Control][4]
+- [IDE][5]
+- [killer browser][6]
+- [text editor][7]
+- [google and google-fu][8]
+- [cloud storage][9]
+- [password manager][10]
+- [mail app][11]
+- [LinkedIn account][12]
+- [Stack Overflow account][13]
 
 ---
 
-![](http://www.tapscape.com/wp-content/uploads/2014/04/2014-macbook-air-lpddr4-memory.jpeg)
+![][image-1]
 
 
 
@@ -47,15 +47,15 @@ Many students within CS@HU will complain that their laptops are too big to bring
 
 However, **if you're neither a gamer nor a security buff**, then the **OSX combined with the iOS** platform is by far the best choice for you.
 
-If you want **all** the platforms - so some combination of both Windows, Linux, or OSX - that's possible too, so just look into [VirtualBox](https://www.virtualbox.org/) or [Parallels](https://www.parallels.com/)
+If you want **all** the platforms - so some combination of both Windows, Linux, or OSX - that's possible too, so just look into [VirtualBox][14] or [Parallels][15]
 
 `Open image in new tab on browser to zoom in`
 
-![](http://cdn3.carlcheo.com/wp-content/uploads/2015/03/iphone-vs-android-infographic.jpg)
+![][image-2]
 
 ---
 
-![](http://store.sony.com/SNYNA_27/pimg/pSNYNA-MDR1RBT_main_enh.png)
+![][image-3]
 
 ## headphones
 > preferably bluetooth
@@ -64,110 +64,110 @@ If you want **all** the platforms - so some combination of both Windows, Linux, 
 
 ---
 
-![Baracktocat](https://octodex.github.com/images/baracktocat.jpg)
+![Baracktocat][image-4]
 
-## [a GitHub account](https://github.com/join)
+## [a GitHub account][16]
 
 Build software better, together with GitHub. When you publish your code on GitHub, you offer potential employers an easy way to see how you work.
 
 Also take advantage of what GitHub has to offer you...
 
-- download the [Student Developer Pack](https://education.github.com/pack) GitHub offers which includes the best developer tools, free for students
+- download the [Student Developer Pack][17] GitHub offers which includes the best developer tools, free for students
 
 > make sure to sign up for the Student Pack using your `@my.hamptonu.edu` email.
 
-- [learn how](http://www.thinkful.com/learn/a-guide-to-using-github-pages/) to use [GitHub pages](https://pages.github.com/) to host your website and your project pages
+- [learn how][18] to use [GitHub pages][19] to host your website and your project pages
 
-- try out [Gitter](https://gitter.im) which is where GitHub users can chat about projects
+- try out [Gitter][20] which is where GitHub users can chat about projects
 
-- share your code using [Gists](https://gist.github.com/)
+- share your code using [Gists][21]
 
-- crowdsource a project or team on GitHub with [Gratipay](https://gratipay.com/), which is a platform not directly related to the GitHub family but is used by many GitHub users nonetheless
+- crowdsource a project or team on GitHub with [Gratipay][22], which is a platform not directly related to the GitHub family but is used by many GitHub users nonetheless
 
-### An example of a [killer GitHub profile](https://github.com/addyosmani) for inspiration looks something like this
+### An example of a [killer GitHub profile][23] for inspiration looks something like this
 
-![All the code in the world!](https://fvcproductions.files.wordpress.com/2015/03/addyosmani.png)
+![All the code in the world!][image-5]
 
-To be fair, this guy does work on [Google Chrome](http://google.com/chrome), but hey, the more you know.
+To be fair, this guy does work on [Google Chrome][24], but hey, the more you know.
 
 ---
 
 ## Git Version Control
 
-![](https://mac.github.com/images/screen1.png)
+![][image-6]
 
-Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer. [source](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. For the examples in this book you will use software source code as the files being version controlled, though in reality you can do this with nearly any type of file on a computer. [source][25]
 
 Try one of the following for keeping track of your files
 
-- GitHub for [Mac](https://mac.github.com/)/[Windows](https://windows.github.com/) (Free)
+- GitHub for [Mac][26]/[Windows][27] (Free)
 
-- [Sourcetree](http://www.sourcetreeapp.com/) for [Mac](http://www.sourcetreeapp.com/download)/[Windows](http://downloads.atlassian.com/software/sourcetree/windows/SourceTreeSetup_1.6.14.exe) (Free)
+- [Sourcetree][28] for [Mac][29]/[Windows][30] (Free)
 
-- [Tower](http://www.git-tower.com/) ($59)
+- [Tower][31] ($59)
 
 ---
 
-![](https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-07-00-24-32.png)
+![][image-7]
 
 ## an IDE
 
-With Java being the language of use for the majority of CS@HU courses, [jGrasp](http://www.jgrasp.org/) is recommended by faculty at Hampton in beginner courses, but once you're comfortable enough using jGrasp, it's suggested you graduate and move on to IDEs that have more features.
+With Java being the language of use for the majority of CS@HU courses, [jGrasp][32] is recommended by faculty at Hampton in beginner courses, but once you're comfortable enough using jGrasp, it's suggested you graduate and move on to IDEs that have more features.
 
-[Eclipse](http://eclipse.org) is free, extensible, and probably as close to an "industry standard" Java IDE as you'll get.
+[Eclipse][33] is free, extensible, and probably as close to an "industry standard" Java IDE as you'll get.
 
-Other popular IDEs include [CodeRunner](https://coderunnerapp.com/), [Netbeans](https://netbeans.org/), [all the ones offered by JetBrains](https://www.jetbrains.com/),  [Xcode](https://developer.apple.com/xcode/), and [Cloud9](https://c9.io/)
+Other popular IDEs include [CodeRunner][34], [Netbeans][35], [all the ones offered by JetBrains][36],  [Xcode][37], and [Cloud9][38]
 
 ---
 
-![](https://wanyingcom125.files.wordpress.com/2014/02/browser-wars.jpg)
+![][image-8]
 
 ## a killer browser
 
-Many claim [Chrome](http://google.com/chrome) is the best for developers thanks to its ease of use, numerous extensions and add-ons, and superb performance.
+Many claim [Chrome][39] is the best for developers thanks to its ease of use, numerous extensions and add-ons, and superb performance.
 
-Others will say [Firefox](https://www.mozilla.org/en-US/firefox/desktop/) instead because it offers so many useful and developer-oriented add-ons.
+Others will say [Firefox][40] instead because it offers so many useful and developer-oriented add-ons.
 
-It's up for you to decide which browser to use in the end, but a piece of advice just about anyone will give you is to do yourself a favor and not use [IE](http://windows.microsoft.com/en-us/internet-explorer/browser-ie#touchweb=touchvidtab1) unless you have some kind of death wish.
+It's up for you to decide which browser to use in the end, but a piece of advice just about anyone will give you is to do yourself a favor and not use [IE][41] unless you have some kind of death wish.
 
 ---
 
-![](http://res.cloudinary.com/justinbarnett/image/upload/v1381125437/best-sublime-text-3-settings-1_t0brgf.png)
+![][image-9]
 
 ## a text editor
 
-If you're a developer, a good text editor is a must-have. The humble text editor is great for managing code, writing down quick notes, or just as a distraction-free writing tool. Let's look at some popular ones. [source](http://lifehacker.com/five-best-text-editors-1564907215)
+If you're a developer, a good text editor is a must-have. The humble text editor is great for managing code, writing down quick notes, or just as a distraction-free writing tool. Let's look at some popular ones. [source][42]
 
-- [Sublime Text 3](http://www.sublimetext.com/) ($70)
-    - Cross-platform and feature packed, Sublime Text is a crowd favorite.
+- [Sublime Text 3][43] ($70)
+	- Cross-platform and feature packed, Sublime Text is a crowd favorite.
 
-- [Notepad++](http://notepad-plus-plus.org/) (Free)
-    - Notepad++ has been around for a long time, and many users graduate to Notepad++ from Notepad or Wordpad.
+- [Notepad++][44] (Free)
+	- Notepad++ has been around for a long time, and many users graduate to Notepad++ from Notepad or Wordpad.
 
-- [Vim](http://www.vim.org/)/[Emacs](http://www.gnu.org/software/emacs/) (Free)
-    - Winners in Holy Text Editor Grail Wars of the 90's.
+- [Vim][45]/[Emacs][46] (Free)
+	- Winners in Holy Text Editor Grail Wars of the 90's.
 
-- [Atom](https://atom.io/) (Free)
+- [Atom][47] (Free)
    - Calling itself a text editor "for the 21st century," Atom earned a lot of praise in the nominations round for being a text editor designed for the needs of today's developers.
 
 ---
 
-![](http://2.bp.blogspot.com/-ZVxEkrY04Fs/U15D5uCL-xI/AAAAAAAAOdQ/pJ-Wc99LmPY/s1600/logo_col_874x288.png)
+![][image-10]
 
-## [google](http://google.com) and [google-fu](http://lifehacker.com/5940946/20-google-search-shortcuts-to-hone-your-google-fu)
+## [google][48] and [google-fu][49]
 
 But not just the Google Search Engine, people.
 
-- [Google Docs](http://docs.google.com)
-    - collaborate on writing assignments
-- [Google Cal](http://cal.google.com)
-    - for managing your week
-- [Google Drive](http://drive.google.com)
-    - portable storage
-- [Google Forms](http://forms.google.com)
-    - getting responses from club/team members
-- [Inbox](http://inbox.google.com)/[Gmail](http://gmail.com)
-    - because email is still how most (older) people figure out everything
+- [Google Docs][50]
+	- collaborate on writing assignments
+- [Google Cal][51]
+	- for managing your week
+- [Google Drive][52]
+	- portable storage
+- [Google Forms][53]
+	- getting responses from club/team members
+- [Inbox][54]/[Gmail][55]
+	- because email is still how most (older) people figure out everything
 
 Also, in terms of google-fu, that's when you really know how to Google the crap out of things, which is really useful since you'll be doing that a lot throughout your CS career.
 
@@ -175,11 +175,11 @@ Also, in terms of google-fu, that's when you really know how to Google the crap 
 
 **Ergo**, `info:urbandictionary.com` would produce `A veritable cornucopia of streetwise lingo, posted and defined by its readers.`.
 
-![](https://huacm.files.wordpress.com/2015/03/screenshot-2015-03-08-16-15-39.png)
+![][image-11]
 
 Now that's useful!
 
-And if you ever want to find the [`answer to life the universe and everything`](https://www.google.com/webhp?hl=en#hl=en&q=answer+to+the+life+the+universe+and+everything), Google knows that too.
+And if you ever want to find the [`answer to life the universe and everything`][56], Google knows that too.
 
 Here's some more fun queries:
 - `do a barrel roll` or `Z or R Twice`
@@ -190,11 +190,11 @@ Here's some more fun queries:
 - `the loneliest number`
 - `zerg rush`
 
-Now find out [other cool methods](http://www.gizmag.com/google-search-functions/34382/) to find things faster. Once you do, it'll save you a **LOT** of time that you used to spend searching for something simple.
+Now find out [other cool methods][57] to find things faster. Once you do, it'll save you a **LOT** of time that you used to spend searching for something simple.
 
 ---
 
-![](http://cloudtimes.org/wp-content/uploads/2014/03/Choose-A-Cloud-Storage.png)
+![][image-12]
 
 ## cloud storage
 
@@ -208,15 +208,15 @@ No, you wouldn't be freaking out. You're smarter than that. You have cloud stora
 
 Popular cloud options include
 
-- [Dropbox](https://www.dropbox.com/)
-- [Google Drive](https://drive.google.com)
+- [Dropbox][58]
+- [Google Drive][59]
 - [Sugar Sync]()
 - [Box]()
 - [iCloud Drive]()
 
 ---
 
-![](http://i.kinja-img.com/gawker-media/image/upload/t_original/ytzptqysvsbw0stsrtxm.png)
+![][image-13]
 
 ## a password manager
 
@@ -226,11 +226,11 @@ You're going to be creating **MANY** accounts throughout your CS career. Serious
 
 Just get a bloody password manager.
 
-Popular choices are [Last Pass](https://lastpass.com/) and [1Password](https://agilebits.com/onepassword).
+Popular choices are [Last Pass][63] and [1Password][64].
 
 ---
 
-![](http://infospace.ischool.syr.edu/files/2013/10/Apple-Mail-vs-Gmail-e1380894855320.png)
+![][image-14]
 
 ## a Mail app
 
@@ -238,17 +238,17 @@ You're a CS major now, so by now hopefully you've graduated from going to your b
 
 Hampton uses Gmail to send you information announcements, campus events, weather alerts, and so on.
 
-To keep all your email in one place, simply [forward the emails from your Hampton Gmail account to your main email account](http://www.wikihow.com/Forward-Emails-from-Your-School-Email-Program).
+To keep all your email in one place, simply [forward the emails from your Hampton Gmail account to your main email account][65].
 
 And again, use the built-in apps for mail that your phone/laptop provides. Ergo, the Gmail app for Android/Windows or the Mail app for OSX/iOS.
 
-Other mail apps, such as [Mailbox](http://www.mailboxapp.com/) or [Inbox](https://inbox.google.com/?pli=1) that are not provided on your phone/laptop by default are also options, but can become potentially tedious since they are not built in.
+Other mail apps, such as [Mailbox][66] or [Inbox][67] that are not provided on your phone/laptop by default are also options, but can become potentially tedious since they are not built in.
 
 ---
 
-![](http://cdn.embed.ly/providers/logos/linkedin.png)
+![][image-15]
 
-## a [LinkedIn](http://linkedin.com) account
+## a [LinkedIn][68] account
 
 You need to have a large network so you can use it later and it keeps your resume up to date.
 
@@ -258,18 +258,105 @@ Plus, the majority of HU alumni/students tend to have one. Especially if they're
 
 ---
 
-![](http://www.socialtalent.co/wp-content/uploads/blog-content/so-logo.png)
+![][image-16]
 
-## a [Stack Overflow](http://stackoverflow.com/) account
+## a [Stack Overflow][69] account
 
 You'll be consulting this guy for **QUITE** a number of times, so you might as well as accept that fact and register to save time later.
 
 Stack Overflow is a question and answer site for professional and enthusiast programmers.
 
-### An example of a [killer Stack Overflow profile](http://stackoverflow.com/users/33708/mehrdad-afshari) for inspiration looks something like this
+### An example of a [killer Stack Overflow profile][70] for inspiration looks something like this
 
-![](https://huacm.files.wordpress.com/2015/03/user-mehrdad-afshari.png)
+![][image-17]
 
 Wow. Much reputation. Such power.
 
-![](http://tr1.cbsistatic.com/hub/i/2014/05/15/f8964afd-bd82-4e0e-bcbe-e927363dcdc1/codedoge.jpg)
+![][image-18]
+
+[1]:	#-a-decent-laptop-and-phone
+[2]:	#headphones
+[3]:	#a-github-account
+[4]:	#git-version-control
+[5]:	#an-ide
+[6]:	#a-killer-browser
+[7]:	#a-text-editor
+[8]:	#google-and-google-fu
+[9]:	#cloud-storage
+[10]:	#a-password-manager
+[11]:	#a-mail-app
+[12]:	#a-linkedin-account
+[13]:	#a-stack-overflow-account
+[14]:	https://www.virtualbox.org/
+[15]:	https://www.parallels.com/
+[16]:	https://github.com/join
+[17]:	https://education.github.com/pack
+[18]:	http://www.thinkful.com/learn/a-guide-to-using-github-pages/
+[19]:	https://pages.github.com/
+[20]:	https://gitter.im
+[21]:	https://gist.github.com/
+[22]:	https://gratipay.com/
+[23]:	https://github.com/addyosmani
+[24]:	http://google.com/chrome
+[25]:	http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+[26]:	https://mac.github.com/
+[27]:	https://windows.github.com/
+[28]:	http://www.sourcetreeapp.com/
+[29]:	http://www.sourcetreeapp.com/download
+[30]:	http://downloads.atlassian.com/software/sourcetree/windows/SourceTreeSetup_1.6.14.exe
+[31]:	http://www.git-tower.com/
+[32]:	http://www.jgrasp.org/
+[33]:	http://eclipse.org
+[34]:	https://coderunnerapp.com/
+[35]:	https://netbeans.org/
+[36]:	https://www.jetbrains.com/
+[37]:	https://developer.apple.com/xcode/
+[38]:	https://c9.io/
+[39]:	http://google.com/chrome
+[40]:	https://www.mozilla.org/en-US/firefox/desktop/
+[41]:	http://windows.microsoft.com/en-us/internet-explorer/browser-ie#touchweb=touchvidtab1
+[42]:	http://lifehacker.com/five-best-text-editors-1564907215
+[43]:	http://www.sublimetext.com/
+[44]:	http://notepad-plus-plus.org/
+[45]:	http://www.vim.org/
+[46]:	http://www.gnu.org/software/emacs/
+[47]:	https://atom.io/
+[48]:	http://google.com
+[49]:	http://lifehacker.com/5940946/20-google-search-shortcuts-to-hone-your-google-fu
+[50]:	http://docs.google.com
+[51]:	http://cal.google.com
+[52]:	http://drive.google.com
+[53]:	http://forms.google.com
+[54]:	http://inbox.google.com
+[55]:	http://gmail.com
+[56]:	https://www.google.com/webhp?hl=en#hl=en&q=answer+to+the+life+the+universe+and+everything
+[57]:	http://www.gizmag.com/google-search-functions/34382/
+[58]:	https://www.dropbox.com/
+[59]:	https://drive.google.com
+[63]:	https://lastpass.com/
+[64]:	https://agilebits.com/onepassword
+[65]:	http://www.wikihow.com/Forward-Emails-from-Your-School-Email-Program
+[66]:	http://www.mailboxapp.com/
+[67]:	https://inbox.google.com/?pli=1
+[68]:	http://linkedin.com
+[69]:	http://stackoverflow.com/
+[70]:	http://stackoverflow.com/users/33708/mehrdad-afshari
+
+[image-1]:	http://www.tapscape.com/wp-content/uploads/2014/04/2014-macbook-air-lpddr4-memory.jpeg
+[image-2]:	http://cdn3.carlcheo.com/wp-content/uploads/2015/03/iphone-vs-android-infographic.jpg
+[image-3]:	http://store.sony.com/SNYNA_27/pimg/pSNYNA-MDR1RBT_main_enh.png
+[image-4]:	https://octodex.github.com/images/baracktocat.jpg
+[image-5]:	https://fvcproductions.files.wordpress.com/2015/03/addyosmani.png
+[image-6]:	https://mac.github.com/images/screen1.png
+[image-7]:	https://fvcproductions.files.wordpress.com/2015/03/screenshot-2015-03-07-00-24-32.png
+[image-8]:	https://wanyingcom125.files.wordpress.com/2014/02/browser-wars.jpg
+[image-9]:	http://res.cloudinary.com/justinbarnett/image/upload/v1381125437/best-sublime-text-3-settings-1_t0brgf.png
+[image-10]:	http://2.bp.blogspot.com/-ZVxEkrY04Fs/U15D5uCL-xI/AAAAAAAAOdQ/pJ-Wc99LmPY/s1600/logo_col_874x288.png
+[image-11]:	https://huacm.files.wordpress.com/2015/03/screenshot-2015-03-08-16-15-39.png
+[image-12]:	http://cloudtimes.org/wp-content/uploads/2014/03/Choose-A-Cloud-Storage.png
+[image-13]:	http://i.kinja-img.com/gawker-media/image/upload/t_original/ytzptqysvsbw0stsrtxm.png
+[image-14]:	http://infospace.ischool.syr.edu/files/2013/10/Apple-Mail-vs-Gmail-e1380894855320.png
+[image-15]:	http://cdn.embed.ly/providers/logos/linkedin.png
+[image-16]:	http://www.socialtalent.co/wp-content/uploads/blog-content/so-logo.png
+[image-17]:	https://huacm.files.wordpress.com/2015/03/user-mehrdad-afshari.png
+[image-18]:	http://tr1.cbsistatic.com/hub/i/2014/05/15/f8964afd-bd82-4e0e-bcbe-e927363dcdc1/codedoge.jpg
