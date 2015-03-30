@@ -5,8 +5,9 @@
     ],
     "links": {
         "sidebar": {
-            "Our Website": "http://hubook.strikingly.com/",
-            "Contact Us": "https://twitter.com/fvcproductions"
+            "Website": "http://hubook.strikingly.com",
+            "Contact Us": "https://twitter.com/fvcproductions",
+            "Hampton University": "http://hamptonu.edu"
         }
     },
     "pluginsConfig": {}

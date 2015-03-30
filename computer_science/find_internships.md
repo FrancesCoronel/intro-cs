@@ -25,3 +25,11 @@ Find internships and employment opportunities in the largest internship marketpl
 ## [Idealist](http://www.idealist.org/)
 
 The world's best place to find volunteer opportunities, nonprofit jobs, internships, and organizations working to change the world since 1995.
+
+---
+
+![](http://www.hottopics.ht/assets/angellist-logo.jpg)
+
+## [AngelList](https://angel.co/jobs)
+
+You can use CrunchBase and AngelList to find interesting companies to apply to. Not all of them will have job postings, so you should cold email any that don’t have online applications.

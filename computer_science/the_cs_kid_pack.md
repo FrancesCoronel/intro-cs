@@ -13,25 +13,23 @@
 
 # Overview
 
-- [decent laptop and phone][1]
-- [headphones][2]
-- [GitHub account][3]
+- [a decent laptop and phone][1]
+- [a pair of headphones][2]
+- [a GitHub account][3]
 - [Git Version Control][4]
-- [IDE][5]
-- [killer browser][6]
-- [text editor][7]
-- [google and google-fu][8]
+- [an IDE][5]
+- [a killer browser][6]
+- [a text editor][7]
+- [Google and Google-fu][8]
 - [cloud storage][9]
-- [password manager][10]
-- [mail app][11]
-- [LinkedIn account][12]
-- [Stack Overflow account][13]
+- [a password manager][10]
+- [a Mail app][11]
+- [a LinkedIn account][12]
+- [a Stack Overflow account][13]
 
 ---
 
 ![][image-1]
-
-
 
 ## a decent laptop and phone
 
@@ -57,7 +55,8 @@ If you want **all** the platforms - so some combination of both Windows, Linux, 
 
 ![][image-3]
 
-## headphones
+## a pair of headphones
+
 > preferably bluetooth
 
 <span class="quora-content-embed" data-name="Why-do-programmers-wear-headphones-while-programming/answer/John-Clover/quote/2905287">Read <a data-width="541" data-height="399" class="quora-content-link" href="http://www.quora.com/Why-do-programmers-wear-headphones-while-programming/answer/John-Clover/quote/2905287" data-embed="zkrnwmj" data-type="quote" data-id="2905287" data-key="f40c8fc5742054c6d76b8035dc98833c">Quote of John Clover's answer to Why do programmers wear headphones while programming?</a> on <a href="http://www.quora.com">Quora</a><script type="text/javascript" src="http://www.quora.com/widgets/content"></script></span>
@@ -154,7 +153,7 @@ If you're a developer, a good text editor is a must-have. The humble text editor
 
 ![][image-10]
 
-## [google][48] and [google-fu][49]
+## [Google][48] and [Google-fu][49]
 
 But not just the Google Search Engine, people.
 
@@ -274,8 +273,8 @@ Wow. Much reputation. Such power.
 
 ![][image-18]
 
-[1]:	#-a-decent-laptop-and-phone
-[2]:	#headphones
+[1]:	#a-decent-laptop-and-phone
+[2]:	#a-pair-of-headphones
 [3]:	#a-github-account
 [4]:	#git-version-control
 [5]:	#an-ide

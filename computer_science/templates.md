@@ -2,6 +2,8 @@
 
 > resources and nuggets
 
+> check out `2.6.1 Compilations` as well for more resources
+
 ---
 
 ![](http://html5up.net/uploads/images/twenty.jpg)

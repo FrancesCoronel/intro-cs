@@ -1,13 +1,13 @@
-# Dr. Justus Nyagwencha
+# Susan Zehra
 
-> Assistant Professor
+> Instructor
 
 ---
 
-![Dr. N](https://huacm.files.wordpress.com/2015/03/justus-e1427144122564.jpg)
+![](https://media.licdn.com/media/p/2/000/18d/361/27d2d25.jpg)
 
 - **Location** Science and Technology 120
-- **Phone** (757) 727-5564
+- **Phone** N/A
 - **E-mail** justus.nyagwencha@hamptonu.edu
 - **Expertise** Human Computer Intraction, Information Assurance, Computer archtecture, Networking and Data Communications, Databases and Programming in C++ and Java
 

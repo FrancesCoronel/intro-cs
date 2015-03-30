@@ -69,6 +69,14 @@ Glassdoor helps you find a job and company you love. Reviews, salaries and benef
 - Wanted to work at an exciting futuristic company?
 - Struggled with an interview problem that could have been solved in 15 minutes?
 - Wished you could study real-world computing problems?
-> 
+>
 > If so, you need to read Elements of Programming Interviews (EPI).
+
+---
+
+![](https://huacm.files.wordpress.com/2015/03/cs-internship-recruiting-guide.png)
+
+## [CS Internship Recruiting Guide on Medium](https://medium.com/@qrazhan/cs-internship-recruiting-guide-aebb68912808)
+
+This guide is primarily meant for freshmen or sophomores, but should be useful to anyone who is new to the tech industry.
 

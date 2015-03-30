@@ -20,10 +20,18 @@ Topcoder matches companies who need technical expertise with a worldwide communi
 
 ---
 
-![]()
+![](https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.png)
 
 ## [CodeChef](http://www.codechef.com/)
 
 CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming and programming contests.
+
+---
+
+![](https://www.codeeval.com/static/images/logo.png)
+
+## [CodeEval](https://www.codeeval.com/)
+
+The savviest tech companies and coolest startups use CodeEval to attract top developer talent with hosted challenges, job offers and product giveaways.
 
 

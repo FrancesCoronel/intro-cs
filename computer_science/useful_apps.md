@@ -79,13 +79,13 @@ Earn points as you code, compare yourself to others. Gain insight into your most
 
 ## Just Desktop Apps
 
-![](http://a1.mzstatic.com/us/r30/Purple/v4/be/f7/7a/bef77aea-7c4c-da96-5365-1d7597a8e9fb/screen800x500.jpeg)
+![](http://a1.mzstatic.com/us/r30/Purple3/v4/ac/0f/96/ac0f9661-5de7-c5c5-2ee7-d3f51ba44923/screen800x500.jpeg)
 
-### [Caffeine](http://lightheadsw.com/caffeine/)
+### [Amphetamine](http://lightheadsw.com/caffeine/)
 
-Prevents your screen from going into sleep mode. Great if you’re writing notes on an article and the screen keeps dimming, whilst you hope that if you stare long enough, the phrase “homologous ways to a view of hegemony” will start to make sense.
+Amphetamine is a little app that lives in your menu bar. With Amphetamine, you can effortlessly override your energy saver settings and keep your Mac awake.
 
-Available for OSX. Free.
+Available only for OSX. Free.
 
 ![](http://blog.shoplet.com/wp-content/uploads/2014/07/flux-comparison.jpg)
 
