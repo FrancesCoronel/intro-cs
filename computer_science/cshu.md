@@ -1,4 +1,4 @@
-![](https://huacm.files.wordpress.com/2015/03/screenshot-2015-03-03-09-04-16.png)
+![](https://huacm.files.wordpress.com/2014/10/oie_transparent2.png)
 
 # CS@HU
 

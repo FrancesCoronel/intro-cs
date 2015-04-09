@@ -6,3 +6,4 @@
 
 This is where we'll look at terms and phrases only CS majors could understand, popular CS memes, popular CS jokes, `<fun>` stuff you can do over the weekend, and other useful crap.
 
+![](https://huacm.files.wordpress.com/2015/03/procrastinate-e1427241578746.jpg)

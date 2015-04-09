@@ -2,7 +2,7 @@
 
 > resources and nuggets
 
-> check out `2.6.1 Compilations` as well for more resources
+> check out `2.6.1 Compilations` as well for even more resources
 
 ---
 

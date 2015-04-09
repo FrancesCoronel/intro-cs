@@ -150,6 +150,33 @@
 		<array>
 			<string>susan_zehra.md</string>
 		</array>
+		<array>
+			<string>apps.md</string>
+		</array>
+		<array>
+			<string>courses.md</string>
+		</array>
+		<array>
+			<string>hackathons.md</string>
+		</array>
+		<array>
+			<string>local.md</string>
+		</array>
+		<array>
+			<string>local_meetups.md</string>
+		</array>
+		<array>
+			<string>more_websites.md</string>
+		</array>
+		<array>
+			<string>reddit_jokes.md</string>
+		</array>
+		<array>
+			<string>the_hu_guarantee.md</string>
+		</array>
+		<array>
+			<string>virtual.md</string>
+		</array>
 	</array>
 </dict>
 </plist>

@@ -1,6 +1,6 @@
-# Jokes
+# Quora Jokes
 
-> yes, CS got jokes
+> yes, [Quora](http://quora.com) got jokes
 
 ---
 

@@ -22,6 +22,26 @@
 
 ---
 
+## Perspective from a CS@HU Alumnus
+
+Computer Science is the right major for you because technology is the way of the world.
+
+We live in a technological era, where technology is all around us from the cars we drive, to the way businesses interact, to the way we communicate with one another.
+
+Understanding different dimensions of computing is part of the necessary skill set for an educated person in the 21st century.
+
+Whether you want to be a engineer, web designer, developer, or just want to know how computers work, studying computer science will provide you with valuable knowledge.
+
+Expertise in the subject enables you to solve complex and challenging problems because it requires and develops capabilities in solving deep, multidimensional problems requiring imagination and sensitivity to a variety of concerns.
+
+Students should study computer science because it gives them the opportunity to change the world regardless of their passion.
+
+The career opportunities for computer science majors are in great abundance and very well paid.
+
+The growing technology era is forever evolving and computer science jobs are here to stay!
+
+---
+
 ## What are some things that programmers and computer scientists know, but most people don't?
 
 - Counting starts from zero, not one.

@@ -49,3 +49,7 @@ a business-oriented social networking service that reports more than 259 million
 ## git
 
 Git is a distributed revision control system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows.
+
+## hackathon
+
+A large meeting of computer-enthusiasts held for the specific purpose of hacking a website or other technology.

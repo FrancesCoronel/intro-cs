@@ -2,40 +2,19 @@
 
 > So with all this work during the week, how should you spend your weekends?
 
-> You know what they say... all work and no play makes Bobby a sad little boy.
+> You know what they say... **all work and no play makes Bobby a sad little boy**.
 
 > Welp, here are some recommendations.
 
 ---
 
-![](http://victorops.com/wp-content/uploads/2014/09/Meetup-logo1.gif)
+![](http://media.mediatemple.netdna-cdn.com/wp-content/uploads/2014/01/meetup-hq-large-opt_mini.jpg)
 
 ## Attend [Meetups](http://meetup.com)
 
 [Meetup](http://meetup.com) is a website that helps groups of people with shared interests plan events and facilitates off line group meetings in various localities around the world.
 
-Cool tech related Meetup groups around the Hampton Roads area include
-
-### [Wordpress Hampton Roads](http://www.meetup.com/WordPresshr/)
-> This group offers an exchange of ideas, examples, support & answers regarding WordPress.
-
-### [GDG Hampton Roads](http://www.meetup.com/GDG-Hampton-Roads/)
-> Google Developer Groups (GDGs) are for developers who are interested in Google's developer technology; everything from the Android, App Engine, and Google Chrome platforms, to product APIs like the Maps API, YouTube API and Google Calendar API.
-
-### [Norfolk.js](http://www.meetup.com/NorfolkJS/)
-> Join us in talking about, brainstorming, and building Javascript tools and applications. See more information at norfolkjs.org or github.com/norfolkjs.
-
-### [Norfolk Ruby Users Group (757.rb)](http://www.meetup.com/757-rb/)
-> An advocacy group for promoting the awareness/use of the Ruby programming language and the Rails framework.
-
-### [Hampton Roads .NET Users Group](http://www.meetup.com/Hampton-Roads-NET-Users-Group/)
-> The Hampton Roads .NET Users Group is a group of developers in the area who are dedicated to expanding their knowledge of technology.
-
-### [Code For Hampton Roads](http://www.meetup.com/Code4HR/)
-> Join other developers, designers, data geeks, civic leaders, organizers, and idea-makers who volunteer to help the 7 Cities' government and civic orgs adopt open web technologies.
-
-### [The Hampton Roads Internet Marketing & Technology Group](http://www.meetup.com/The-Hampton-Roads-Internet-Technology-Meetup-Group/)
-> A internet marketing group where people can share knowledge about internet marketing methods with each other - discuss successes and failures.
+**For tech-related meetups around the Hampton Roads area, check out `Section 7.4.1 - Local Meetups`.**
 
 ---
 
@@ -59,31 +38,21 @@ Cool tech related Meetup groups around the Hampton Roads area include
 
 ![](http://www.greenbookblog.org/wp-content/uploads/2014/12/Hackathon-logo-1.jpg)
 
-## Hackathons
+## Participate in Hackathons
 
-Popular hackathons that happen around the Hampton Roads area include...
+***Definition according to the [Oxford Dictionary](http://www.oxforddictionaries.com/us/definition/american_english/hackathon)***
 
-![](http://hackathon.dominionenterprises.com/wp-content/uploads/2014/11/HackU3-logo.png)
+> an event, typically lasting several days, in which a large number of people meet to engage in collaborative computer programming
+>
+> i.e. "a series of 48-hour hackathons to build new web and mobile services"
 
-### [Dominion Enterprises Hackathons](http://hackathon.dominionenterprises.com/)
-> Sponsored by Dominion Enterprises, to foster better collaboration and creativity among the local software development community.
+***Definition according to the [Urban Dictionary](http://www.urbandictionary.com/define.php?term=hackathon)***
 
-![](http://www.silicio.com.do/wp-content/uploads/2013/03/space-app-challenge.png)
+> Having company employees come in and work all night under the guise of innovation and opportunity with little or not reward to ones self for the sole purpose of benefiting the company.
+>
+> i.e. "Please join us in our hackathon next week we will provide pizza and beer in exchange for you burning yourself out."
 
-### [International Space Apps Challenge](https://2015.spaceappschallenge.org/)
-> A two-day hackathon where teams of technologists, scientists, designers, artists, educators, entrepreneurs, developers and students across the globe collaborate and engage with publicly available data to design innovative solutions for global challenges.
-
-![](http://media2.govtech.com/images/770*1000/National+Day+of+Civic+Hacking.jpg)
-
-### [National Day of Civic Hacking](http://hackforchange.org/events/virginia-beach-hackathon/)
-> The national event will bring together technologists, entrepreneurs, social activists, designers and citizens like you to improve our communities and the governments that serve them. Anyone can participate; you don’t have to be an expert in technology, but you do have to care about your neighborhood and community.
-
-![](https://cdn.evbuc.com/eventlogos/23598708/codeacross2015banner.jpg)
-
-### [Code Across Hampton Roads](http://www.codeforamerica.org/events/codeacross-2015/)
-> The goal of CodeAcross is to activate the Code for America network and inspire residents everywhere to get actively involved in their community.
-
-#### More hackathons can be found using [hackathon.io](http://www.hackathon.io/events), which is the most comprehensive platform to discover, share and manage hackathons.
+**For popular hackathons around the Hampton Roads area, check out `Section 7.4.2 - Hackathons`.**
 
 ---
 
@@ -95,7 +64,7 @@ Popular hackathons that happen around the Hampton Roads area include...
 
 ---
 
-![](http://www.cnu.org/sites/www.cnu.org/files/ted_logo.png)
+![](http://blog.st8mnt.com/wp-content/uploads/2012/02/TEDTALKS2023_001.jpg)
 
 ## Watch [TED talks](http://www.ted.com/)
 

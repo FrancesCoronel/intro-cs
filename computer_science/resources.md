@@ -15,16 +15,20 @@
 ## Related Questions on Quora
 
 > general
+
 - ### [How do I learn to code?](https://www.quora.com/How-do-I-learn-to-code-1)
 - ### [What are the best resources (sites, books or tutorials) for learning programming?](https://www.quora.com/What-are-the-best-resources-sites-books-or-tutorials-for-learning-programming)
 - ### [What are the best sources to learn web coding (in a short time)?](https://www.quora.com/What-are-the-best-sources-to-learn-web-coding-in-a-short-time?no_redirect=1)
-
-
-> online courses
 - ### [What are the best online web development courses?](https://www.quora.com/What-are-the-best-online-web-development-courses)
+- ### [What are the most learner-friendly resources for learning about algorithms?](https://www.quora.com/What-are-the-most-learner-friendly-resources-for-learning-about-algorithms)
 
 > topic specific
+
+- ### [How can I learn Java?](https://www.quora.com/How-can-I-learn-Java-2)
 - ### [How do I learn Python?](https://www.quora.com/How-do-I-learn-Python-3)
-- ### [What are the best resources for learning bleeding-edge web, UI and UX design?](https://www.quora.com/What-are-the-best-resources-for-learning-bleeding-edge-web-UI-and-UX-design])
+- ### [What are some good resources for learning Ruby?](https://www.quora.com/What-are-some-good-resources-for-learning-Ruby)
+- ### [What are the best resources for learning bleeding-edge web, UI and UX design?](https://www.quora.com/What-are-the-best-resources-for-learning-bleeding-edge-web-UI-and-UX-design)
+- ### [What are the best resources for learning iOS development?](https://www.quora.com/What-are-the-best-resources-for-learning-iOS-development)
 - ### [What are the best resources for learning JavaScript?](https://www.quora.com/What-are-the-best-resources-for-learning-JavaScript)
+
 

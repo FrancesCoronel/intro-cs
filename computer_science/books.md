@@ -1,6 +1,6 @@
 # Books
 
-> Where we explore the most well known intro books that cover various languages such as JavaScript, HTML/CSS, Python, Java, and more.
+> Where we explore the most well known intro books and guides that cover various languages such as JavaScript, HTML/CSS, Python, Java, and more.
 
 ---
 
@@ -16,6 +16,12 @@
 ### [A Smarter Way to Learn JavaScript](http://www.asmarterwaytolearn.com/)
 
 The approach that uses technology to cut your efforts to learn JS in half.
+
+![](https://camo.githubusercontent.com/aaff5164e88291cf2bc33cfbdc259ce4d34935f3/687474703a2f2f692e696d6775722e636f6d2f6a6145626438302e706e67)
+
+### [JavaScript The Right Way](http://jstherightway.org/)
+
+This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.
 
 ---
 

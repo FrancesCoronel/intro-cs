@@ -1,14 +1,14 @@
 # Conferences
 
-> skip school for a good reason
+> skip school for a good reason this time
 
 ---
 
 ![](https://pbs.twimg.com/profile_banners/235217517/1400792353/1500x500)
 
-## [TAPIA Conference](http://tapiaconference.org/)
+## [ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org/)
 
-The goal of the Tapia Conferences is to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities to:
+The goal of the Tapia Conference is to bring together undergraduate and graduate students, faculty, researchers, and professionals in computing from all backgrounds and ethnicities to:
 
 - Celebrate the diversity that exists in computing;
 - Connect with others with common backgrounds, ethnicities, disabilities, and gender so as to create communities that extend beyond the conference;

@@ -4,6 +4,12 @@
 
 ---
 
+## Are you an admitted student for CS@HU who wants a headstart?
+
+Check out the newly established [Computing Pre-College Program](http://news.hamptonu.edu/release/HU-Receives-NSF-grant-for-Computing-Pre--College-Program)!
+
+---
+
 ## What Math course do I enroll in?
 
 You will be permitted to enroll in the math course required by your major if you meet the following criteria.

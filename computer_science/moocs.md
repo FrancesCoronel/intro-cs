@@ -1,44 +1,8 @@
-# Courses
+## MOOCs 
 
-> This section covers the best CS related online classes or courses.
+> only the best `Massive Open Online Courses` - all **FREE**
 
 ---
-
-## MOOCs Revolution
-
-![](http://techstroke.com/wp-content/uploads/2012/08/khan.png)
-
-### [Khan Academy](https://www.khanacademy.org/)
-
-Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more.
-
-Examples of CS related courses offered include
-
-- Computer Programming
-    - [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
-    - [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
-    - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
-    - [HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
-    - [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
-- Computer Science
-    - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-    - [Journey into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
-    - [Journey into Information Theory](https://www.khanacademy.org/computing/computer-science/informationtheory)
-- [What can you do with a career in CS?](https://www.khanacademy.org/computing/computer-programming/meet-the-computing-professional)
-
-![](http://upload.wikimedia.org/wikipedia/commons/e/e5/EdX_Logo.PNG)
-
-### [edX](https://www.edx.org/course)
-
-EdX offers interactive online classes and MOOCs from the world’s best universities, colleges and organizations. Online courses from MITx, HarvardX, BerkeleyX, UTx and many other universities can be taken here.
-
-Examples of CS related courses offered include
-
-- [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VP0NUIHF88Y) from HarvardX
-- [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-2#.VP0NXYHF88Y) from LinuxFoundationX
-- [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VP0NfIHF88Y)
-- [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x#.VP0Nd4HF88Y) from UTAustinX
-    - Linear Algebra (MAT 208) is a mandatory course for Computer Science majors here at Hampton.
 
 ![](http://media.tumblr.com/92a71d62ace9940f8ddd540400444fc4/tumblr_inline_mppo32jFBC1qz4rgp.png)
 
@@ -74,32 +38,38 @@ Examples of CS related courses offered include
 
 ---
 
-## Blended Learning
+![](http://upload.wikimedia.org/wikipedia/commons/e/e5/EdX_Logo.PNG)
 
-![](http://skillcrush.com/wp-content/uploads/2013/10/info_callout.png)
+### [edX](https://www.edx.org/course)
 
-### [Skillcrush 10-Day Bootcamp](https://skillcrush.com/skillcrush-10-day-bootcamp/)
+EdX offers interactive online classes and MOOCs from the world’s best universities, colleges and organizations. Online courses from MITx, HarvardX, BerkeleyX, UTx and many other universities can be taken here.
 
-Skillcrush is an interactive online learning community for creatives, thinkers, and makers. This free online 10-day bootcamp provides `everything you need to go seriously digital`.
+Examples of CS related courses offered include
 
-![](http://airpair-blog.s3.amazonaws.com/wp-content/uploads/2014/04/The-Odin-Project-Open-Sourced-Free-Curriculum.png)
+- [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VP0NUIHF88Y) from HarvardX
+- [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-2#.VP0NXYHF88Y) from LinuxFoundationX
+- [Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VP0NfIHF88Y)
+- [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x#.VP0Nd4HF88Y) from UTAustinX
+    - Linear Algebra (MAT 208) is a mandatory course for Computer Science majors here at Hampton.
 
-### [The Odin Project](http://www.theodinproject.com/home)
+---
 
-The Odin Project is one of those "What I wish I had when I was learning" resources. Not everyone has access to a computer science education or the funds to attend an intensive coding school and neither of those is right for everyone anyway.
+![](http://techstroke.com/wp-content/uploads/2012/08/khan.png)
 
-This project is designed to fill in the gap for people who are trying to hack it on their own but still want a high quality education.
+### [Khan Academy](https://www.khanacademy.org/)
 
-![](https://www.bento.io/static/img/twitter_card_2.png)
+Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more.
 
-### [Bento](https://www.bento.io/)
+Examples of CS related courses offered include
 
-There are so many ways to learn to code. Let Bento guide you through the best ones.
-
-You want to learn how to code, but it’s hard to know where to start. There are so many resources on the web that it’s difficult to cut through the noise. Bento picks the best free tutorials and tells what you need to learn in what order.
-
-![](http://cdn.geekwire.com/wp-content/uploads/codementor-logo-2.png)
-
-### [Codementor's Learning Center](https://www.codementor.io/learn)
-
-Learn how to code, through Codementor’s Learning Center. Whether you’re trying to master new programming languages, learn web design, or just trying to become a better developer in general, you can find tutorials, help videos, training guides, and expert tips from experienced developers at Codementor’s Learning Center.
+- Computer Programming
+    - [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+    - [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
+    - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations)
+    - [HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
+    - [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+- Computer Science
+    - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+    - [Journey into Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
+    - [Journey into Information Theory](https://www.khanacademy.org/computing/computer-science/informationtheory)
+- [What can you do with a career in CS?](https://www.khanacademy.org/computing/computer-programming/meet-the-computing-professional)
