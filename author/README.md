@@ -16,7 +16,7 @@
 ### Contributions
 
 
-![](https://lh3.googleusercontent.com/-sIK1rT50N9Y/AAAAAAAAAAI/AAAAAAAAACA/YTu-BJ7P6dg/photo.jpg)
+![](http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,f_auto,h_1440,q_80,w_720/v1/155324/http_s3.amazonaws.com_feather-files-aviary-prod-us-east-1_f5da8ea5e_2015-04-14_9cb84a957418494c95bfbd9e4ee63156_xcfgvq.jpg)
 
 #### [Helena Bemberry](https://plus.google.com/117327269956066522488)
 
