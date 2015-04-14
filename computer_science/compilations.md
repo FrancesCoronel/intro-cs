@@ -1,6 +1,8 @@
 # Compilations
 
-> all the resources you could never imagine
+> All the resources you could never imagine.
+
+![](http://i3.kym-cdn.com/photos/images/original/000/187/320/6a1.png)
 
 ---
 
@@ -36,8 +38,26 @@
 
 ---
 
+![](https://huacm.files.wordpress.com/2015/04/oozled.png)
+
+![](https://huacm.files.wordpress.com/2015/04/oozled-categories.png)
+
+## [Oozled](http://oozled.com/)
+
+> Curated resources for everything creative.
+
+---
+
 ![](https://huacm.files.wordpress.com/2015/03/skilledup.png)
 
 ## [SkilledUp](http://www.skilledup.com/)
 
 > SkilledUp was built to help you find online courses, gain and increase your skills and prove your worth to employers.
+
+---
+
+![](https://huacm.files.wordpress.com/2015/04/startup-stash.png)
+
+## [Startup Stash](http://startupstash.com)
+
+> A curated directory of resources & tools to help you build your Startup.

@@ -11,6 +11,7 @@
 		<string>proposal_outline</string>
 		<string>team</string>
 		<string>author</string>
+		<string>node_modules</string>
 	</array>
 	<key>createMarkedFile</key>
 	<false/>

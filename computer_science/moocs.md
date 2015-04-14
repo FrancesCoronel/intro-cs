@@ -1,6 +1,6 @@
-## MOOCs 
+## MOOCs
 
-> only the best `Massive Open Online Courses` - all **FREE**
+> Only the best `Massive Open Online Courses` and how you can take advantage of them.
 
 ---
 
@@ -8,9 +8,9 @@
 
 ### [Coursera](https://www.coursera.org/)
 
-Coursera is an education platform that partners with top universities and organizations worldwide, to offer courses online for anyone to take, for free.
+> Coursera is an education platform that partners with top universities and organizations worldwide, to offer courses online for anyone to take, for free.
 
-Examples of CS related courses offered include
+**Examples of CS related courses offered include**
 
 - Software Engineering
     - [Code Yourself! An Introduction to Programming](https://www.coursera.org/course/codeyourself)
@@ -42,9 +42,11 @@ Examples of CS related courses offered include
 
 ### [edX](https://www.edx.org/course)
 
-EdX offers interactive online classes and MOOCs from the world’s best universities, colleges and organizations. Online courses from MITx, HarvardX, BerkeleyX, UTx and many other universities can be taken here.
+> EdX offers interactive online classes and MOOCs from the world’s best universities, colleges and organizations.
 
-Examples of CS related courses offered include
+> Online courses from MITx, HarvardX, BerkeleyX, UTx and many other universities can be taken here.
+
+**Examples of CS related courses offered include**
 
 - [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VP0NUIHF88Y) from HarvardX
 - [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-2#.VP0NXYHF88Y) from LinuxFoundationX
@@ -58,9 +60,11 @@ Examples of CS related courses offered include
 
 ### [Khan Academy](https://www.khanacademy.org/)
 
-Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom. We tackle math, science, computer programming, history, art history, economics, and more.
+> Khan Academy offers practice exercises, instructional videos, and a personalized learning dashboard that empower learners to study at their own pace in and outside of the classroom.
 
-Examples of CS related courses offered include
+> They tackle math, science, computer programming, history, art history, economics, and more.
+
+**Examples of CS related courses offered include**
 
 - Computer Programming
     - [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)

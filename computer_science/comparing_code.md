@@ -2,6 +2,8 @@
 
 > Where we briefly go over what you're going to be studying for the next 4 years.
 
+![](http://www.quickmeme.com/img/3c/3cb3f9eb0387d10fc6c63471e83155d63f3d1c477c1f5a6a2ccd28848aad6c59.jpg)
+
 ---
 
 ## Overview of Popular Languages

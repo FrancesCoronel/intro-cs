@@ -1,6 +1,8 @@
 # Reddit Jokes
 
-> omg, Reddittttt
+![](http://sp.reddit.com/obeyFinal.jpg)
+
+> Omg, Reddittttt.
 
 ---
 

@@ -25,7 +25,7 @@
 - [a password manager][10]
 - [a Mail app][11]
 - [a LinkedIn account][12]
-- [a Stack Overflow account][13]
+- [a Stack Exchange account][13]
 
 ---
 
@@ -189,7 +189,7 @@ Here's some more fun queries:
 - `the loneliest number`
 - `zerg rush`
 
-Now find out [other cool methods][57] to find things faster. Once you do, it'll save you a **LOT** of time that you used to spend searching for something simple.
+Now find out [more](http://www.businessinsider.com/awesome-google-features-you-didnt-know-existed-2014-7?op=1) and [more cool methods][57] to find things faster. Once you do, it'll save you a **LOT** of time that you used to spend searching for something simple.
 
 ---
 
@@ -259,11 +259,13 @@ Plus, the majority of HU alumni/students tend to have one. Especially if they're
 
 ![][image-16]
 
-## a [Stack Overflow][69] account
+## a [Stack Exchange][69] account
 
-You'll be consulting this guy for **QUITE** a number of times, so you might as well as accept that fact and register to save time later.
+> You'll be consulting this guy for **QUITE** a number of times, so you might as well as accept that fact and register to save time later.
 
-Stack Overflow is a question and answer site for professional and enthusiast programmers.
+> Stack Exchange is a network of different Q&A communities that offers a variety of topics. One of its most popular networks is *Stack Overflow*.
+
+> *Stack Overflow* is a question and answer site for professional and enthusiast programmers.
 
 ### An example of a [killer Stack Overflow profile][70] for inspiration looks something like this
 
@@ -285,7 +287,7 @@ Wow. Much reputation. Such power.
 [10]:	#a-password-manager
 [11]:	#a-mail-app
 [12]:	#a-linkedin-account
-[13]:	#a-stack-overflow-account
+[13]:	#a-stack-exchange-account
 [14]:	https://www.virtualbox.org/
 [15]:	https://www.parallels.com/
 [16]:	https://github.com/join
@@ -356,6 +358,6 @@ Wow. Much reputation. Such power.
 [image-13]:	http://i.kinja-img.com/gawker-media/image/upload/t_original/ytzptqysvsbw0stsrtxm.png
 [image-14]:	http://infospace.ischool.syr.edu/files/2013/10/Apple-Mail-vs-Gmail-e1380894855320.png
 [image-15]:	http://cdn.embed.ly/providers/logos/linkedin.png
-[image-16]:	http://www.socialtalent.co/wp-content/uploads/blog-content/so-logo.png
+[image-16]:	http://cdn.sstatic.net/stackexchange/img/logos/se/se-logo.png?v=dd7153fcc7fa
 [image-17]:	https://huacm.files.wordpress.com/2015/03/user-mehrdad-afshari.png
 [image-18]:	http://tr1.cbsistatic.com/hub/i/2014/05/15/f8964afd-bd82-4e0e-bcbe-e927363dcdc1/codedoge.jpg

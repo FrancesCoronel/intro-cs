@@ -1,6 +1,6 @@
 # Local Meetups
 
-> Cool tech related Meetup groups around the Hampton Roads area
+> Cool tech related Meetup groups around the Hampton Roads area.
 
 ---
 

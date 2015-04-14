@@ -1,7 +1,8 @@
 {
     "gitbook": "2.x.x",
     "plugins": [
-        "anchors"
+        "anchors",
+        "youtube"
     ],
     "links": {
         "sidebar": {

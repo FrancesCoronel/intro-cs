@@ -1,6 +1,8 @@
 # Quora Jokes
 
-> yes, [Quora](http://quora.com) got jokes
+![](http://mscorp.blob.core.windows.net/mscorpmedia/2014/12/quora.png)
+
+> Yes, [Quora](http://quora.com) got jokes.
 
 ---
 

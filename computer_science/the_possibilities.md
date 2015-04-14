@@ -1,6 +1,8 @@
 # The Possibilities
 
-> With growing technological advancements, computer science majors are in high demand in a plethora of fields. Whether you’re interested in theory or industry, you can use the skills you learn as a computer science major at Hampton University to spread your talents.
+> With growing technological advancements, computer science majors are in high demand in a plethora of fields.
+
+> Whether you’re interested in theory or industry, you can use the skills you learn as a computer science major at Hampton University to spread your talents.
 
 ---
 

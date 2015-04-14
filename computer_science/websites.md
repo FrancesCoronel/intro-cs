@@ -2,9 +2,17 @@
 
 > Aspiring to be a great developer is aspiring to improve yourself constantly everyday in the art. It's an aspect many developers love about the field.
 
-> So here are some websites that aid that aspiration.
+>> So here are some websites to aid that aspiration.
 
 ----
+
+![](https://huacm.files.wordpress.com/2015/04/code4startup.png)
+
+## [Code4Startup](https://code4startup.com/)
+
+> We are a MUST-GO place for anyone who has an idea and want to build their own startup app. We are different as we show you Real skills for Real world projects.
+
+---
 
 ![][image-1]
 
@@ -14,39 +22,17 @@
 
 ----
 
-![][image-2]
+![][image-5]
 
-## [Code School][2]
-
-> Code School is an online learning platform that teaches a variety of programming and web design skills. Courses range from beginner to advanced levels and you get to earn rewards and badges as you learn.
-
-----
-
-![][image-3]
-
-## [Typing.io][3]
-> Typing.io is a typing tutor/trainer for programmers. Typing.io's lessons are based on open source code, allow you to practice typing the key sequences that appear in real code.
+## [Coderbyte][5]
+> Coderbyte is a web application built to help people practice their programming skills with our collection of programming challenges.
 
 ----
 
 ![][image-4]
 
-## [codewars][4]
+## [Codewars][4]
 > Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback. The leaders among them moderate the content and community.
-
-----
-
-![][image-5]
-
-## [coderbyte][5]
-> Coderbyte is a web application built to help people practice their programming skills with our collection of programming challenges.
-
-----
-
-![][image-6]
-
-## [Node School][6]
-> Choose-your-own-adventure style lessons and learn how to use node.js, npm and other related tools by writing code to solve realistic problems.
 
 ----
 
@@ -56,6 +42,14 @@
 > Learn how to code games, apps and websites with fun and effective interactive games. HTML, CSS and JavaScript tutorials are for beginners.
 
 ----
+
+![][image-2]
+
+## [Code School][2]
+
+> Code School is an online learning platform that teaches a variety of programming and web design skills. Courses range from beginner to advanced levels and you get to earn rewards and badges as you learn.
+
+---
 
 ![][image-8]
 
@@ -70,6 +64,20 @@
 - Practice providing useful critique.
 - Discuss code in both subjective and objective terms.
 - Strengthen your problem-solving skills by guiding others through the process.
+
+---
+
+![][image-6]
+
+## [Node School][6]
+> Choose-your-own-adventure style lessons and learn how to use node.js, npm and other related tools by writing code to solve realistic problems.
+
+---
+
+![][image-3]
+
+## [Typing.io][3]
+> Typing.io is a typing tutor/trainer for programmers. Typing.io's lessons are based on open source code, allow you to practice typing the key sequences that appear in real code.
 
 [1]:	http://codecademy.com/
 [2]:	http://codeschool.com/
@@ -88,3 +96,5 @@
 [image-6]:	https://huacm.files.wordpress.com/2015/03/nodeschool-io.png
 [image-7]:	https://huacm.files.wordpress.com/2015/03/ca.png
 [image-8]:	https://huacm.files.wordpress.com/2015/03/exercism-io.png
+
+

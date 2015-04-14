@@ -1,5 +1,8 @@
 # `I Don't C#`
 
+
+![](https://huacm.files.wordpress.com/2015/03/procrastinate-e1427241578746.jpg)
+
 > Once you start to really **get** CS, these memes/jokes/terminology may become more obvious to you.
 
 ---

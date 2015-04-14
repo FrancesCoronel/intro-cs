@@ -8,13 +8,17 @@
 
 [eCampus at Hampton University](http://www.ecampus.com/hamptonu) will tell you which textbooks your teacher will be using ahead of time so you can order them prior to class starting.
 
-However, it is highly recommended you don't actually get the physical copy of any of your textbooks for class unless you know for certain you will be needing it for class or it's mandatory (mainly for classes that have a laboratory section).
+---
+
+# However,
+
+it is highly recommended you don't actually get the physical copy of any of your textbooks for class unless you know for certain you will be needing it for class or it's mandatory (mainly for classes that have a laboratory section).
 
 > Some professors will only use their textbooks for one assignment the entire semester and then completely disregard it.
 
 > Others will reference the textbook constantly for homework assignments. This is when you'll actually want to go ahead and purchase the textbook.
 
-When it comes to textbooks:
+# So,
 
 - first try and find a PDF version of the textbook using Google (*and yes, it's possible that you once bought a textbook that was available for free online*)
 
@@ -36,9 +40,13 @@ When it comes to textbooks:
 
 ### [BIGWORDS](http://www.bigwords.com/)
 
-Finds the sweetest, cheapest textbooks, saves $1,000 annually on average.
+> Finds the sweetest, cheapest textbooks, saves $1,000 annually on average.
 35-45% cheaper textbooks than other online stores, and up to 90% cheaper than the bookstore.
 
 ### [Cheapest Textbooks](http://www.cheapesttextbooks.com/)
 
-This free service scours the internet to help you find the cheapest place to buy used textbooks, new textbooks, rental textbooks, and so on.
+> This free service scours the internet to help you find the cheapest place to buy used textbooks, new textbooks, rental textbooks, and so on.
+
+### [Occupy the Bookstore | Chrome Extension](https://chrome.google.com/webstore/detail/occupy-the-bookstore/ipheiokfflghncbmedblogighkbongmo?hl=en-US)
+
+> A price comparison extension to help students find the best textbook deals when they search for their course books.

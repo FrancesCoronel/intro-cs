@@ -14,7 +14,7 @@
 
 [Meetup](http://meetup.com) is a website that helps groups of people with shared interests plan events and facilitates off line group meetings in various localities around the world.
 
-**For tech-related meetups around the Hampton Roads area, check out `Section 7.4.1 - Local Meetups`.**
+**For tech-related meetups around the Hampton Roads area, check out `Section 7.3.2 - Local Meetups`.**
 
 ---
 
@@ -52,7 +52,7 @@
 >
 > i.e. "Please join us in our hackathon next week we will provide pizza and beer in exchange for you burning yourself out."
 
-**For popular hackathons around the Hampton Roads area, check out `Section 7.4.2 - Hackathons`.**
+**For popular hackathons around the Hampton Roads area, check out `Section 7.3.2 - Hackathons`.**
 
 ---
 

@@ -1,6 +1,6 @@
 # Author
 
-> Who's behind this GitBook?
+> Who's behind this GitBook, anyways?
 
 ---
 

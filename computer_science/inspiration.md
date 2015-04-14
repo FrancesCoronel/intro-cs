@@ -1,6 +1,6 @@
 # Inspiration
 
-> learn from the best
+> Learn from the best while in the process of making your website/portfolio!
 
 ---
 

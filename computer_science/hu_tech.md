@@ -16,12 +16,8 @@
 
 ---
 
-![](http://img.hamptonu.edu/assets/quest.jpg)
-
-## Did you forget your password or are you locked out since you entered in your password wrong 3 times? Time to go to the [Quest Password Manager](http://cit.hamptonu.edu/page/Quest-Password-Manager) for Hampton.
-
----
-
 ![](http://winsupersite.com/site-files/winsupersite.com/files/imagecache/large_img/uploads/2013/05/offline-hero.jpg)
 
-## Get [Office 365 from Microsoft for free](http://www.office.com/getoffice365) using your `@my.hamptonu.edu` email.
+## [Microsoft Office 365 (FREE)](http://www.office.com/getoffice365)
+
+> Just register an account using your student email (`@my.hamptonu.edu`).

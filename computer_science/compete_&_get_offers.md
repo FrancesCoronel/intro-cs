@@ -4,22 +4,6 @@
 
 ---
 
-![](https://www.hackerrank.com/assets/styleguide/logo_wordmark.svg)
-
-## [HackerRank](https://www.hackerrank.com/)
-
-With the world's fastest growing developer platform, HackerRank is on a mission to make the world fast by making hackers the best at what they do.
-
----
-
-![](http://www.citylightcap.com/img/port/topcoder-1.png)
-
-## [topcoder](http://www.topcoder.com/)
-
-Topcoder matches companies who need technical expertise with a worldwide community of more than 713,444 specialists.
-
----
-
 ![](https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.png)
 
 ## [CodeChef](http://www.codechef.com/)
@@ -33,5 +17,22 @@ CodeChef was created as a platform to help programmers make it big in the world 
 ## [CodeEval](https://www.codeeval.com/)
 
 The savviest tech companies and coolest startups use CodeEval to attract top developer talent with hosted challenges, job offers and product giveaways.
+
+---
+
+
+![](https://www.hackerrank.com/assets/styleguide/logo_wordmark.svg)
+
+## [HackerRank](https://www.hackerrank.com/)
+
+With the world's fastest growing developer platform, HackerRank is on a mission to make the world fast by making hackers the best at what they do.
+
+---
+
+![](http://www.citylightcap.com/img/port/topcoder-1.png)
+
+## [topcoder](http://www.topcoder.com/)
+
+Topcoder matches companies who need technical expertise with a worldwide community of more than 713,444 specialists.
 
 

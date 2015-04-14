@@ -1,6 +1,6 @@
-# Accelerators
+# Immersive
 
-> aka career building sessions
+> AKA career building sessions.
 
 ---
 

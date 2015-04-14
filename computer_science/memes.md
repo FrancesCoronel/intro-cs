@@ -1,6 +1,6 @@
 # Memes
 
-> the best cartoons, gifs, pictures that describe the programmer lifestyle
+> The best cartoons, gifs, pictures that describe the programmer lifestyle.
 
 `Open image in new tab on browser to zoom in`
 

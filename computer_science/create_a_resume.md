@@ -1,14 +1,6 @@
 # Create A Resume
 
-> so you can show off
-
----
-
-![](https://huacm.files.wordpress.com/2015/03/resumelinkedin.png)
-
-## [LinkedIn Resume Builder](http://resume.linkedinlabs.com/)
-
-Turn your LinkedIn Profile into a beautiful resume in seconds. No more messing around with multiple Word and PDF documents scattered all over the computer.
+> You know, so you can show off.
 
 ---
 
@@ -16,12 +8,29 @@ Turn your LinkedIn Profile into a beautiful resume in seconds. No more messing a
 
 ## [Creddle](http://creddle.io/)
 
-Craft a modern creative looking resume in no time that stays professional and organized.
+> Craft a modern creative looking resume in no time that stays professional and organized.
 
 ---
 
 ![](http://beautifulopen.com/screenshots/json-resume.png)
 
-### [JSON Resume](https://jsonresume.org/)
+## [JSON Resume](https://jsonresume.org/)
 
-The open source initiative to create a JSON-based standard for resumes. For developers, by developers.
+> The open source initiative to create a JSON-based standard for resumes. For developers, by developers.
+
+---
+
+![](https://huacm.files.wordpress.com/2015/03/resumelinkedin.png)
+
+## [LinkedIn Resume Builder](http://resume.linkedinlabs.com/)
+
+> Turn your LinkedIn Profile into a beautiful resume in seconds. No more messing around with multiple Word and PDF documents scattered all over the computer.
+
+---
+
+![](https://www.visualcv.com/images/visualcv-resume-templates.jpg)
+
+## [VisualCV](https://www.visualcv.com/)
+
+> Create a standout resume in minutes.
+Easily create multiple resumes and track employer views.

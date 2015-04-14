@@ -1,6 +1,6 @@
 # Conferences
 
-> skip school for a good reason this time
+> Skip school for a good reason this time.
 
 ---
 

@@ -1,6 +1,6 @@
 # Local Hackathons
 
-> popular hackathons that happen around the Hampton Roads area
+> Popular hackathons that happen around the Hampton Roads area.
 
 ---
 

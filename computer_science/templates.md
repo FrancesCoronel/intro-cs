@@ -1,8 +1,8 @@
 # Templates
 
-> resources and nuggets
+> A bunch of resources and nuggets.
 
-> check out `2.6.1 Compilations` as well for even more resources
+> Check out `Section 6.3 - Compilations` as well for even more.
 
 ---
 
