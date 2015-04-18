@@ -1,4 +1,4 @@
-# Websites
+# Learning
 
 > Aspiring to be a great developer is aspiring to improve yourself constantly everyday in the art. It's an aspect many developers love about the field.
 

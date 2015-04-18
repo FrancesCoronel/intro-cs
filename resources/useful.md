@@ -115,6 +115,14 @@ Those other platforms mentioned are pretty powerful too, but Prezi deserves a tr
 
 ---
 
+![](https://huacm.files.wordpress.com/2015/04/slides-carnival.png)
+
+## [Slides Carnival](http://www.slidescarnival.com/)
+
+> Find free presentation templates for [`Google Slides`](http://slides.google.com) and focus on communicating your ideas.
+
+---
+
 ![](https://huacm.files.wordpress.com/2015/04/student-rate.png)
 
 ## [Student Rate](http://www.studentrate.com/)

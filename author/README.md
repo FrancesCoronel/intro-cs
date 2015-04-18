@@ -21,6 +21,10 @@
 #### [Helena Bemberry](https://plus.google.com/117327269956066522488)
 
 - **MAJOR** Computer Information Systems
+    - `Section 1 - Why CS?`
+    - `Section 2.1.4 - HU Guarantee`
+    - `Section 7.1.2 - Reddit Jokes`
+
 
 ---
 
@@ -30,6 +34,7 @@
 
 - **MAJOR** Psychology
 - **MINOR** English
+    - `Section 1.4 - The Possibilities`
 
 [1]:	http://www.linkedin.com/pub/mia-owens/b2/b0a/640 "Mia Owens - LinkedIn"
 [2]:	http://linkedin.com/in/fvcproductions "Violet Siegius - LinkedIn"
