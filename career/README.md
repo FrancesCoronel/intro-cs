@@ -6,7 +6,7 @@
 
 ## Thanks Obama
 
-![](https://fvcproductions.files.wordpress.com/2015/03/techhire.png)
+![](https://huacm.files.wordpress.com/2015/04/techhire.png)
 
 ### [TechHire Initiative](http://www.whitehouse.gov/issues/technology/techhire)
 

@@ -13,7 +13,7 @@
 
 ---
 
-![CODE2040 Applicant Playbook](https://fvcproductions.files.wordpress.com/2015/03/applicantplaybook.png)
+![CODE2040 Applicant Playbook](https://huacm.files.wordpress.com/2015/04/applicantplaybook.png)
 
 ## [CODE2040 | Applicant Playbook](http://playbook.code2040.org/)
 

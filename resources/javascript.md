@@ -19,7 +19,7 @@ The approach that uses technology to cut your efforts to learn JS in half.
 
 ---
 
-![](https://camo.githubusercontent.com/aaff5164e88291cf2bc33cfbdc259ce4d34935f3/687474703a2f2f692e696d6775722e636f6d2f6a6145626438302e706e67)
+![](http://firebearstudio.com/blog/wp-content/uploads/2015/03/The-Right-Way-1024x495.png)
 
 ### [JavaScript The Right Way](http://jstherightway.org/)
 

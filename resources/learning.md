@@ -92,7 +92,7 @@
 [image-2]:	http://orm-chimera-prod.s3.amazonaws.com/1234000001682/images/codeschool_jquery.png
 [image-3]:	https://www.bram.us/wordpress/wp-content/uploads/2013/12/typingio.png
 [image-4]:	https://ciblogassets.s3.amazonaws.com/crowdblog/asset/214/codewars3.png
-[image-5]:	https://s3.amazonaws.com/ksr/assets/000/379/626/6fd69aceb1070555dacf846ed296d84f_large.png?1360397775
+[image-5]:	https://s3.amazonaws.com/ksr/assets/000/379/626/6fd69aceb1070555dacf846ed296d84f_large.png
 [image-6]:	https://huacm.files.wordpress.com/2015/03/nodeschool-io.png
 [image-7]:	https://huacm.files.wordpress.com/2015/03/ca.png
 [image-8]:	https://huacm.files.wordpress.com/2015/03/exercism-io.png

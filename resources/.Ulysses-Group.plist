@@ -180,6 +180,30 @@
 		<array>
 			<string>the_possibilities.md</string>
 		</array>
+		<array>
+			<string>desktop.md</string>
+		</array>
+		<array>
+			<string>htmlcss.md</string>
+		</array>
+		<array>
+			<string>java.md</string>
+		</array>
+		<array>
+			<string>javascript.md</string>
+		</array>
+		<array>
+			<string>learning.md</string>
+		</array>
+		<array>
+			<string>mobile.md</string>
+		</array>
+		<array>
+			<string>python.md</string>
+		</array>
+		<array>
+			<string>useful.md</string>
+		</array>
 	</array>
 </dict>
 </plist>

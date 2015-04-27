@@ -21,7 +21,7 @@ The savviest tech companies and coolest startups use CodeEval to attract top dev
 ---
 
 
-![](https://www.hackerrank.com/assets/styleguide/logo_wordmark.svg)
+![](https://www.hackerrank.com/assets/styleguide/logo_wordmark.png)
 
 ## [HackerRank](https://www.hackerrank.com/)
 

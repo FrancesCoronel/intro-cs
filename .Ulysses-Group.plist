@@ -12,6 +12,13 @@
 		<string>team</string>
 		<string>author</string>
 		<string>node_modules</string>
+		<string>career</string>
+		<string>cs_hu</string>
+		<string>funsies</string>
+		<string>programs</string>
+		<string>resources</string>
+		<string>starter_pack</string>
+		<string>why_cs</string>
 	</array>
 	<key>createMarkedFile</key>
 	<false/>
@@ -25,6 +32,9 @@
 		</array>
 		<array>
 			<string>SUMMARY.md</string>
+		</array>
+		<array>
+			<string>LICENSE.txt</string>
 		</array>
 	</array>
 </dict>

@@ -2,6 +2,8 @@
 
 > So as you know, the HU network is very limited as to what sites you are allowed to go to, but here are some of your legal options for when you need to kick back and listen to some tunes or watch some talkies.
 
+![](http://www.quickmeme.com/img/88/88617188ea2e95700f60ba7466eaa1c2b2b346d8b9adddf468bc905b7a68f32f.jpg)
+
 ---
 
 ![](https://huacm.files.wordpress.com/2015/04/keep-vid.png)
@@ -12,7 +14,7 @@
 
 ---
 
-![](http://cdn.projectfreetv.ch/wp-content/uploads/2014/10/projectfree4.gif)
+![](http://i.ytimg.com/vi/cxnWRfbqTTc/maxresdefault.jpg)
 
 ## [Project Free TV](http://www.free-tv-video-online.info/)
 

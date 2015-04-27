@@ -20,11 +20,15 @@ You can use GitHub Pages to host one website for free and unlimited project site
 
 > If you're looking just for a simple portfolio to show off your developer/designer skills without having to code anything yourself, then look no further.
 
+---
+
 ![](https://huacm.files.wordpress.com/2015/03/coderbits.png)
 
 ### [Coderbits](https://coderbits.com)
 
 Intelligent portfolios for developers and designers.
+
+---
 
 ![](https://huacm.files.wordpress.com/2015/03/challengepost.png)
 

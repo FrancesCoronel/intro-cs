@@ -4,7 +4,7 @@
 
 ---
 
-![The future of tech.](https://fvcproductions.files.wordpress.com/2015/03/code2040.png)
+![The future of tech.](https://huacm.files.wordpress.com/2015/04/code2040.png)
 
 ## [CODE2040 Fellowship Program](http://www.code2040.org/students/)
 

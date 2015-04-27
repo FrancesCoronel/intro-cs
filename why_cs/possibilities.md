@@ -37,9 +37,3 @@
 - Software Engineer
 - Systems Analyst
 - Technical Writer
-
-
-
-
-
-
