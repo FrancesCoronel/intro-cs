@@ -1,6 +1,6 @@
 # Desktop
 
-> And by desktop, we mean a screen that's at least 11 inches wide.
+> And by desktop, we mean a screen that's at least 11 inches wide and supports one of the main operating systems, like OSX, Linux, and Windows.
 
 ---
 

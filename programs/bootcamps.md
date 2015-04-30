@@ -6,10 +6,11 @@
 
 ---
 
-![](https://huacm.files.wordpress.com/2015/03/switchup.png)
+![](https://huacm.files.wordpress.com/2015/03/bootcamp-me.png)
 
-## [SwitchUp](https://www.switchup.org/)
-> Finding a way to learn new skills can be difficult — Switch is here to help! We aim to make research, admissions, and the switch into a technology career quick and easy. We want to help you land amazing jobs by choosing the programs that are right for you.
+## [Bootcamp.me](http://bit.ly/bootcampme)
+
+> This map provides links to offline coding bootcamps/development schools located worldwide that are at least 2 weeks long in length.
 
 ---
 
@@ -20,6 +21,13 @@
 
 ---
 
+![](https://huacm.files.wordpress.com/2015/03/switchup.png)
+
+## [SwitchUp](https://www.switchup.org/)
+> Finding a way to learn new skills can be difficult — Switch is here to help! We aim to make research, admissions, and the switch into a technology career quick and easy. We want to help you land amazing jobs by choosing the programs that are right for you.
+
+---
+
 ![](https://huacm.files.wordpress.com/2015/03/definitive.png)
 
 ## [The Firehose Project](http://www.thefirehoseproject.com/definitive-guide)
@@ -27,16 +35,8 @@
 
 ---
 
-![](https://huacm.files.wordpress.com/2015/03/bootcamp-me.png)
-
-## [Bootcamp.me](http://bit.ly/bootcampme)
-
-> This map provides links to offline coding bootcamps/development schools located worldwide that are at least 2 weeks long in length.
-
----
-
 ![](http://bit-post.com/wp-content/uploads/2015/02/quora-logo.png)
 
-## Also be sure to check out these questions on Quora
+## Also be sure to check out Quora!
 
 - ### [What are the best programming bootcamps/courses available in the United States?](https://www.quora.com/What-are-the-best-programming-bootcamps-courses-available-in-the-United-States)

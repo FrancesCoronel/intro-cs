@@ -10,7 +10,7 @@
 
 ---
 
-# However,
+# However
 
 it is highly recommended you don't actually get the physical copy of any of your textbooks for class unless you know for certain you will be needing it for class or it's mandatory (mainly for classes that have a laboratory section).
 

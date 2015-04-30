@@ -2,7 +2,31 @@
 
 > A bunch of resources and nuggets.
 
-> Check out `Section 6.3 - Compilations` as well for even more.
+> Check out `Section 6.3 - Compilations` as well for even more of these awesome resources.
+
+---
+
+![](https://lh3.googleusercontent.com/-dnxopSaxu_o/UZDM-1XT2AI/AAAAAAAAA40/khgHSWKrG6Y/s630-fcrop64=1,00510000ffadffff/CodropsGPCover.jpg)
+
+## [Codrops](http://tympanus.net/codrops/)
+
+Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities. The team of Codrops is dedicated to provide useful, inspiring and innovative content that is free of charge.
+
+---
+
+![](https://huacm.files.wordpress.com/2015/03/codyhouse.png)
+
+## [CodyHouse](http://codyhouse.co/)
+
+A free library of HTML, CSS, JS nuggets.
+
+---
+
+![](https://huacm.files.wordpress.com/2015/03/cssframeworks.png)
+
+## [CSS Frontend Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
+
+A collection of best front end frameworks for faster & easier web development.
 
 ---
 
@@ -14,15 +38,23 @@ Make spiffy HTML5 site templates that are fully responsive, built on intelligent
 
 ---
 
+![](https://huacm.files.wordpress.com/2015/03/iconfinder.png)
+
+## [Iconfinder](http://iconfinder.com)
+
+Iconfinder provides beautiful icons to millions of designers and developers. Iconfinder now hosts the worlds largest collection of premium icons.
+
+---
+
 ![](https://huacm.files.wordpress.com/2015/03/pixelarity.png)
 
 ## [Pixelarity](http://pixelarity.com/)
 
 A collection of 50+ responsive HTML5/CSS3 site templates, flexibly licensed and available for download with the purchase of a subscription.
 
-![](https://huacm.files.wordpress.com/2015/03/templated.png)
-
 ---
+
+![](https://huacm.files.wordpress.com/2015/03/templated.png)
 
 ## [Templated.co](http://templated.co/)
 
@@ -51,35 +83,3 @@ This on going project compiles pattersn shared by the most talented designers ou
 ## [The Stocks](http://thestocks.im/)
 
 The best royalty free stock photos in one place.
-
-![](https://huacm.files.wordpress.com/2015/03/cssframeworks.png)
-
----
-
-## [CSS Frontend Frameworks](http://usablica.github.io/front-end-frameworks/compare.html)
-
-A collection of best front end frameworks for faster & easier web development.
-
-![](https://lh3.googleusercontent.com/-dnxopSaxu_o/UZDM-1XT2AI/AAAAAAAAA40/khgHSWKrG6Y/s630-fcrop64=1,00510000ffadffff/CodropsGPCover.jpg)
-
----
-
-## [Codrops](http://tympanus.net/codrops/)
-
-Codrops is a web design and development blog that publishes articles and tutorials about the latest web trends, techniques and new possibilities. The team of Codrops is dedicated to provide useful, inspiring and innovative content that is free of charge.
-
-![](https://huacm.files.wordpress.com/2015/03/iconfinder.png)
-
----
-
-## [Iconfinder](http://iconfinder.com)
-
-Iconfinder provides beautiful icons to millions of designers and developers. Iconfinder now hosts the worlds largest collection of premium icons.
-
----
-
-![](https://huacm.files.wordpress.com/2015/03/codyhouse.png)
-
-## [CodyHouse](http://codyhouse.co/)
-
-A free library of HTML, CSS, JS nuggets.

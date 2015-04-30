@@ -8,6 +8,16 @@
 
 ---
 
+## Quick Overview
+
+- Attend Meetups
+- Work on side projects
+- Participate in Hackathons
+- Host LAN parties
+- Watch TED talks
+- Become a warrior on Code Combat
+- Fight as a Ruby Warrior
+
 ![](http://media.mediatemple.netdna-cdn.com/wp-content/uploads/2014/01/meetup-hq-large-opt_mini.jpg)
 
 ## Attend [Meetups](http://meetup.com)

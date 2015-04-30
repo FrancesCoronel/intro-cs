@@ -4,6 +4,16 @@
 
 >> So here are some websites to aid that aspiration.
 
+- [Code4Startup][9]
+- [Codecademy][10]
+- [Coderbyte][11]
+- [Codewars][12]
+- [Code Avengers][13]
+- [Code School][14]
+- [Exercism.io][15]
+- [Node School][16]
+- [Typing.io][17]
+
 ----
 
 ![](https://huacm.files.wordpress.com/2015/04/code4startup.png)
@@ -53,7 +63,7 @@
 
 ![][image-8]
 
-## [exercism.io][8]
+## [Exercism.io][8]
 
 > Practice
 - Deliberately focus on improving your skills.
@@ -87,6 +97,15 @@
 [6]:	http://nodeschool.io/
 [7]:	http://www.codeavengers.com/
 [8]:	http://exercism.io/
+[9]:	#code4startup
+[10]:	#codecademy
+[11]:	#coderbyte
+[12]:	#codewars
+[13]:	#code-avengers
+[14]:	#code-school
+[15]:	#exercism.io
+[16]:	#node-school
+[17]:	#typing.io
 
 [image-1]:	https://s3.amazonaws.com/codecademy-blog/assets/03-2013-new-experience.png
 [image-2]:	http://orm-chimera-prod.s3.amazonaws.com/1234000001682/images/codeschool_jquery.png
