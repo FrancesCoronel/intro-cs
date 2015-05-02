@@ -5,7 +5,6 @@
    * [Comparing Code](why_cs/code.md)
    * [Bits of Advice](why_cs/advice.md)
    * [Minorities Everywhere](why_cs/minorities.md)
-   * [The Possibilities](why_cs/possibilities.md)
 * [CS@HU](cs_hu/README.md)
    * [Freshies](cs_hu/outline.md)
        * [Courses](cs_hu/courses.md)

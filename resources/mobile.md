@@ -30,6 +30,18 @@
 
 ---
 
+![](http://www.topapps.net/wp-content/uploads/2013/12/Meetup.jpeg)
+
+## Meetup
+
+> Find groups of people meeting up in real life who share your interests.
+>
+> Available for [iOS](https://itunes.apple.com/us/app/meetup-groups-near-you-that/id375990038?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.meetup&hl=en).
+>
+> Free.
+
+---
+
 ![](https://inside.quizlet.com/inside-data/2014/10/trio-1.png)
 
 ## Quizlet
@@ -49,18 +61,6 @@
 > Get the best answer to any question anywhere at anytime.
 >
 > Available for [iOS](https://itunes.apple.com/us/app/quora/id456034437?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.quora.android&hl=en).
-
----
-
-![](http://www.topapps.net/wp-content/uploads/2013/12/Meetup.jpeg)
-
-## Meetup
-
-> Find groups of people meeting up in real life who share your interests.
->
-> Available for [iOS](https://itunes.apple.com/us/app/meetup-groups-near-you-that/id375990038?mt=8) and [Android](https://play.google.com/store/apps/details?id=com.meetup&hl=en).
->
-> Free.
 
 ---
 

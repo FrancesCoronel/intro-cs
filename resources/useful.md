@@ -164,25 +164,13 @@ Those other platforms mentioned are pretty powerful too, but Prezi deserves a tr
 [2]:    #codeivate
 [3]:    #github-hackathon-starter
 [4]:    #hacker-news
-
-[10]:	#codecademy
-[11]:	#coderbyte
-[12]:	#codewars
-[13]:	#code-avengers
-[14]:	#code-school
-[15]:	#exercism.io
-[16]:	#node-school
-[17]:	#typing.io
-- [Codeivate][2]
-- [GitHub Hackathon Starter][3]
-- [Hacker News][4]
-- [How much to make an app?][5]
-- [How long to learn to code?][6]
-- [IFTTT][7]
-- [Prezi][8]
-- [Product Hunt][9]
-- [Quick Look Plugins][10]
-- [Quora][11]
-- [Slides Carnival][12]
-- [Student Rate][13]
-- [Thoughtbot Laptop][14]
+[5]:    #how-much-to-make-an-app?
+[6]:    #how-long-to-learn-to-code?
+[7]:    #ifttt
+[8]:    #prezi
+[9]:    #product-hunt
+[10]:   #quick-look-plugins
+[11]:   #quora
+[12]:   #slides-carnival
+[13]:   #student-rate
+[14]:   #thoughtbot-laptop
