@@ -1,4 +1,4 @@
-# Courses
+# Websites
 
 > This section covers the best virtual places where you can learn how to really code!
 

@@ -12,11 +12,24 @@
 
 ---
 
-![](http://beautifulopen.com/screenshots/json-resume.png)
+![](https://huacm.files.wordpress.com/2015/05/enhancv.png)
+
+[Enhancv](http://enhancv.com/)
+
+> Triple your
+Interview Chances!
+>
+> Create compelling eye-catching resumes that grab employers’ attention and enhance your chances of getting hired.
+
+---
+
+![](https://huacm.files.wordpress.com/2015/05/json-resume.png)
 
 ## [JSON Resume](https://jsonresume.org/)
 
-> The open source initiative to create a JSON-based standard for resumes. For developers, by developers.
+> The open source initiative to create a JSON-based standard for resumes.
+>
+> For developers, by developers.
 
 ---
 
@@ -24,7 +37,19 @@
 
 ## [LinkedIn Resume Builder](http://resume.linkedinlabs.com/)
 
-> Turn your LinkedIn Profile into a beautiful resume in seconds. No more messing around with multiple Word and PDF documents scattered all over the computer.
+> Turn your LinkedIn Profile into a beautiful resume in seconds.
+>
+> No more messing around with multiple Word and PDF documents scattered all over the computer.
+
+---
+
+![](https://huacm.files.wordpress.com/2015/05/resumonk.png)
+
+## [ResuMonk](https://www.resumonk.com/)
+
+> Create a beautiful and professional résumé in minutes.
+>
+> Stand out from the crowd and get hired faster.
 
 ---
 
@@ -33,4 +58,5 @@
 ## [VisualCV](https://www.visualcv.com/)
 
 > Create a standout resume in minutes.
-Easily create multiple resumes and track employer views.
+>
+> Easily create multiple resumes and track employer views.

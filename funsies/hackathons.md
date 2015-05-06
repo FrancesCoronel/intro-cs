@@ -34,4 +34,4 @@
 
 ![](https://huacm.files.wordpress.com/2015/04/screenshot-2015-04-07-10-29-03.png)
 
-### More hackathons can be found using [hackathon.io](http://www.hackathon.io/events), which is the most comprehensive platform to discover, share and manage hackathons.
+> More hackathons can be found using [hackathon.io](http://www.hackathon.io/events), which is the most comprehensive platform to discover, share and manage hackathons.

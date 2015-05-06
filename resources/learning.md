@@ -1,8 +1,8 @@
-# Learning
+# Courses
 
 > Aspiring to be a great developer is aspiring to improve yourself constantly everyday in the art. It's an aspect many developers love about the field.
 
->> So here are some websites to aid that aspiration.
+>> So here are some free online learning platforms to aid that aspiration.
 
 - [Code4Startup][9]
 - [Codecademy][10]
@@ -116,4 +116,18 @@
 [image-7]:	https://huacm.files.wordpress.com/2015/03/ca.png
 [image-8]:	https://huacm.files.wordpress.com/2015/03/exercism-io.png
 
+---
+
+![](http://webandtechs.com/wp-content/uploads/2015/01/product-hunt-ios.jpg)
+
+## Take a look at some of these lists from [Product Hunt](http://www.producthunt.com) for even more resources!
+
+- ### [Apps for Students](http://www.producthunt.com/e/apps-for-students-2)
+> School just got way easier.
+- ### [Bite Sized Learning](http://www.producthunt.com/@aaazavyalov/collections/bite-sized-learning)
+> Best tools for the setting up a micro-learning habit
+- ### [Get Schooled](http://www.producthunt.com/@dr_hurd/collections/get-schooled)
+> The best learning products on the web
+- ### [Learn How to Code](http://www.producthunt.com/@benhoffman_/collections/learn-how-to-code)
+> Resources and tools for future developers,
 

@@ -1,6 +1,6 @@
 # WYSIWYG
 
-> Only the free all-purpose ones will be showcased here.
+> Only the **free** all-purpose ones will be showcased here.
 
 ---
 

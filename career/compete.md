@@ -1,4 +1,4 @@
-# Compete & Get Offers
+# Compete To Get Offers
 
 > Yes, this is actually possible! If you win coding challenges online, you can actually get hired and win big in no time.
 
@@ -35,4 +35,13 @@ With the world's fastest growing developer platform, HackerRank is on a mission 
 
 Topcoder matches companies who need technical expertise with a worldwide community of more than 713,444 specialists.
 
+---
 
+## You can even start coding up small tasks for money!
+
+
+![](http://blog.codersclan.net/wp-content/uploads/2015/03/800x280xCodersClan-Logo-Tagline-8001.png.pagespeed.ic.2t2cIfHSCd.png)
+
+### [Coder's Clan](https://www.codersclan.net/)
+
+> CodersClan is a community-driven marketplace for getting code done. You provide quick and reliable solutions for code tasks and projects and gain rewards in return.
