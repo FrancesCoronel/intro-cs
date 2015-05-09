@@ -13,19 +13,19 @@
 
 # Overview
 
-- [a decent laptop and phone][1]
-- [a pair of headphones][2]
-- [a GitHub account][3]
-- [Git Version Control][4]
-- [an IDE][5]
-- [a killer browser][6]
-- [a text editor][7]
-- [Google and Google-fu][8]
-- [cloud storage][9]
-- [a password manager][10]
-- [a Mail app][11]
-- [a LinkedIn account][12]
-- [a Stack Exchange account][13]
+- a decent laptop and phone
+- a pair of headphones
+- a GitHub account
+- Git Version Control
+- an IDE
+- a killer browser
+- a text editor
+- Google and Google-fu
+- cloud storage
+- a password manager
+- a Mail app
+- a LinkedIn account
+- a Stack Exchange account
 
 ---
 
@@ -275,19 +275,6 @@ Wow. Much reputation. Such power.
 
 ![][image-18]
 
-[1]:	#a-decent-laptop-and-phone
-[2]:	#a-pair-of-headphones
-[3]:	#a-github-account
-[4]:	#git-version-control
-[5]:	#an-ide
-[6]:	#a-killer-browser
-[7]:	#a-text-editor
-[8]:	#google-and-google-fu
-[9]:	#cloud-storage
-[10]:	#a-password-manager
-[11]:	#a-mail-app
-[12]:	#a-linkedin-account
-[13]:	#a-stack-exchange-account
 [14]:	https://www.virtualbox.org/
 [15]:	https://www.parallels.com/
 [16]:	https://github.com/join

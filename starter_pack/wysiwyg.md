@@ -50,7 +50,7 @@
 
 > Webflow is the top drag-and-drop website builder for creating professional responsive websites.
 
-- [Designing an App With Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow#!/chapters/689)
+- [Designing an App With Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
 
 ---
 

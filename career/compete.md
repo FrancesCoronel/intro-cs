@@ -42,6 +42,6 @@ Topcoder matches companies who need technical expertise with a worldwide communi
 
 ![](http://blog.codersclan.net/wp-content/uploads/2015/03/800x280xCodersClan-Logo-Tagline-8001.png.pagespeed.ic.2t2cIfHSCd.png)
 
-### [Coder's Clan](https://www.codersclan.net/)
+### [Coder's Clan](https://www.codersclan.net/?ref=producthunt)
 
 > CodersClan is a community-driven marketplace for getting code done. You provide quick and reliable solutions for code tasks and projects and gain rewards in return.

@@ -31,6 +31,6 @@ Anyhow, let's get to know these guys!
 ![Mrs. Indira Kadami](https://huacm.files.wordpress.com/2015/03/img_0351.jpg)
 
 - **Location** Science and Technology 120
-- **E-mail** indirak63@aol.com
+- **E-mail** [`indirak63@aol.com`](mailto:indirak63@aol.com)
 - **Expertise** secretarial and administrative work
 - **Nicknames** N/A

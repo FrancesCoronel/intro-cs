@@ -8,7 +8,7 @@
 
 - **Location** Science and Technology 128
 - **Phone** (757) 727-5965
-- **E-mail** elaine.dietz@hamptonu.edu
+- **E-mail** [`elaine.dietz@hamptonu.edu`](mailto:elaine.dietz@hamptonu.edu)
 - **Expertise** Computer Literacy
 - **Nicknames** N/A
 

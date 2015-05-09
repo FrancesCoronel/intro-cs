@@ -1,18 +1,18 @@
-# Courses
+# Websites
 
 > Aspiring to be a great developer is aspiring to improve yourself constantly everyday in the art. It's an aspect many developers love about the field.
 
 >> So here are some free online learning platforms to aid that aspiration.
 
-- [Code4Startup][9]
-- [Codecademy][10]
-- [Coderbyte][11]
-- [Codewars][12]
-- [Code Avengers][13]
-- [Code School][14]
-- [Exercism.io][15]
-- [Node School][16]
-- [Typing.io][17]
+- Code4Startup
+- Codecademy
+- Coderbyte
+- Codewars
+- Code Avengers
+- Code School
+- Exercism.io
+- Node School
+- Typing.io
 
 ----
 

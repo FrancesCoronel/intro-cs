@@ -8,20 +8,20 @@
 
 ## Quick Overview
 
-- [Alchemize][1]
-- [Codeivate][2]
-- [GitHub Hackathon Starter][3]
-- [Hacker News][4]
-- [How much to make an app?][5]
-- [How long to learn to code?][6]
-- [IFTTT][7]
-- [Prezi][8]
-- [Product Hunt][9]
-- [Quick Look Plugins][10]
-- [Quora][11]
-- [Slides Carnival][12]
-- [Student Rate][13]
-- [Thoughtbot Laptop][14]
+- Alchemize
+- Codeivate
+- GitHub Hackathon Starter
+- Hacker News
+- How much to make an app?
+- How long to learn to code?
+- IFTTT
+- Prezi
+- Product Hunt
+- Quick Look Plugins
+- Quora
+- Slides Carnival
+- Student Rate
+- Thoughtbot Laptop
 
 ---
 
@@ -159,18 +159,3 @@ Those other platforms mentioned are pretty powerful too, but Prezi deserves a tr
 ## [Thoughtbot Laptop](https://github.com/thoughtbot/laptop)
 
 > A shell script which turns your OS X laptop into an awesome web development machine.
-
-[1]:    #alchemize
-[2]:    #codeivate
-[3]:    #github-hackathon-starter
-[4]:    #hacker-news
-[5]:    #how-much-to-make-an-app?
-[6]:    #how-long-to-learn-to-code?
-[7]:    #ifttt
-[8]:    #prezi
-[9]:    #product-hunt
-[10]:   #quick-look-plugins
-[11]:   #quora
-[12]:   #slides-carnival
-[13]:   #student-rate
-[14]:   #thoughtbot-laptop

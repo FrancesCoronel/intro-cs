@@ -27,7 +27,7 @@
 
 ---
 
-## [National Day of Civic Hacking](http://hackforchange.org/events/virginia-beach-hackathon/)
+## [National Day of Civic Hacking](http://hackforchange.org/)
 > The national event will bring together technologists, entrepreneurs, social activists, designers and citizens like you to improve our communities and the governments that serve them. Anyone can participate; you don’t have to be an expert in technology, but you do have to care about your neighborhood and community.
 
 ---

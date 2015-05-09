@@ -8,7 +8,7 @@
 
 - **Location** Science and Technology 120
 - **Phone** (757) 727-5564
-- **E-mail** jeana.muhammad@hamptonu.edu
+- **E-mail** [`jeana.muhammad@hamptonu.edu`](mailto:jeana.muhammad@hamptonu.edu)
 - **Expertise** Distributed Agents, Software Engineering
 - **Nicknames** Jean, Dr.M
 

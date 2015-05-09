@@ -10,13 +10,13 @@
 
 ## Quick Overview
 
-- [Attend Meetups](#attend-meetups)
-- [Work on side projects](#work-on-side-projects)
-- [Participate in Hackathons](#participate-in-hackathons)
-- [Host LAN parties](#Host-LAN-parties)
-- [Watch TED talks](#Watch-TED-talks)
-- [Become a warrior on Code Combat](#Become-a-warrior-on-Code-Combat)
-- [Fight as a Ruby Warrior](#Fight-as-a-Ruby-Warrior)
+- Attend Meetups
+- Work on side projects
+- Participate in Hackathons
+- Host LAN parties
+- Watch TED talks
+- Become a warrior on Code Combat
+- Fight as a Ruby Warrior
 
 ---
 

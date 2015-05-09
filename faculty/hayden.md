@@ -8,7 +8,7 @@
 
 - **Location** Science and Technology 120
 - **Phone** (757) 727-5558
-- **E-mail** angela.hayden@hamptonu.edu
+- **E-mail** [`angela.hayden@hamptonu.edu`](mailto:angela.hayden@hamptonu.edu)
 - **Expertise** N/A
 
 **Spring 2015**

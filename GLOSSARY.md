@@ -1,10 +1,10 @@
 ## MOOC
 
-stands for Massive Open Online Course and is a course of study made available over the Internet without charge to a very large number of people
+This stands for "Massive Open Online Course" and is a course of study made available over the Internet without charge to a very large number of people
 
 ## Silicon Valley
 
-the southern portion of the San Francisco Bay Area of Northern California in the US that serves as the home to many of the world's largest high tech corporations, as well as thousands of tech startup companies
+The southern portion of the San Francisco Bay Area of Northern California in the US that serves as the home to many of the world's largest high tech corporations, as well as thousands of tech startup companies.
 
 ## Sunrise Calendar
 
@@ -16,11 +16,11 @@ An integrated development environment (IDE) or interactive development environme
 
 ## Google-Fu
 
-the ability to quickly answer any given question using internet resources, such as a search engine 
+The ability to quickly answer any given question using internet resources, such as a search engine. 
 
 ## WYSIWYG
 
-WYSIWYG (WIZ-ee-wig) is an acronym for "What You See Is What You Get"
+WYSIWYG (WIZ-ee-wig) is an acronym for "What You See Is What You Get".
 
 ## Coding Bootcamps
 
@@ -32,11 +32,11 @@ A group of computers joined on a Local Area Network (LAN), usually for playing g
 
 ## Y Combinator
 
-Y Combinator is an American seed accelerator, started in March 2005. Initially, Y Combinator provided seed money, advice, and connections at two three-month programs per year. In exchange, they took an average of about 6% of the company's equity. In 2014, Y Combinator changed their investment terms to an investment of $120,000 in exchange for 7% equity. As of 2013, Y Combinator has funded over 500 companies in over 30 different markets. In 2012, Y Combinator was named the top startup incubator and accelerator by Forbes.
+Y Combinator is an American seed accelerator, started in March 2005. In 2012, Y Combinator was named the top startup incubator and accelerator by Forbes.
 
 ## Node.js
 
-Node.js is an open source, cross-platform runtime environment for server-side and networking applications. Node.js applications are written in JavaScript, and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux, FreeBSD, and IBM i.
+Node.js is an open source, cross-platform runtime environment for server-side and networking applications.
 
 ## all desktop platforms
 
@@ -44,7 +44,7 @@ Mac OSX, Linux, Windows
 
 ## LinkedIn
 
-a business-oriented social networking service that reports more than 259 million acquired users in more than 200 countries and territories as of June 2013
+A business-oriented social networking service that reports more than 259 million acquired users in more than 200 countries and territories as of June 2013.
 
 ## git
 

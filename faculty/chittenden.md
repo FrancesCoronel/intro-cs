@@ -8,7 +8,7 @@
 
 - **Location** Science and Technology 120
 - **Phone** (757) 727-5556
-- **E-mail** bruce.chittenden@hamptonu.edu
+- **E-mail** [`bruce.chittenden@hamptonu.edu`](mailto:bruce.chittenden@hamptonu.edu)
 - **Expertise** Software Development, Operating Systems, Compilers, Formal Linguistics, Automata Theory
 - **Nicknames** Bruce
 

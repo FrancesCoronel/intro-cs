@@ -8,7 +8,7 @@
 
 - **Location** Science and Technology 120
 - **Phone** (757) 727-5082
-- **E-mail** chutima.boonthum@hamptonu.edu
+- **E-mail** [`chutima.boonthum@hamptonu.edu`](mailto:chutima.boonthum@hamptonu.edu)
 - **Expertise** Natural Language Processing, Intelligent Tutoring System, Information Retrieval, Cognitive Robotics
 - **Nicknames** Dr. B
 

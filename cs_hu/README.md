@@ -34,9 +34,9 @@
 
 ![](http://a4.mzstatic.com/us/r30/Purple3/v4/1a/6a/f9/1a6af9db-6b45-c454-12a5-3caded12054a/icon128.png)
 
-### [Slack](http://slack.com/cs-hu)
+### [Slack](http://cs-hu.slack.com)
 
-`slack.com/cs-hu`
+`cs-hu.slack.com`
 
 ![](https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/instagram-128.png)
 

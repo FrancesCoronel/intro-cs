@@ -1,14 +1,20 @@
 {
     "gitbook": "2.x.x",
     "plugins": [
-        "anchors"
+        "disqus", 
+        "quizzes", 
+        "exercises"
     ],
     "links": {
         "sidebar": {
-            "Website": "http://hubook.strikingly.com",
+            "Website": "https://hubook.strikingly.com",
             "Contact": "https://twitter.com/fvcproductions",
-            "HamptonU": "http://hamptonu.edu"
+            "HamptonU": "https://hamptonu.edu"
         }
     },
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "fvcproductions"
+        }
+    }  
 }

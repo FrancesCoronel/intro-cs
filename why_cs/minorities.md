@@ -14,7 +14,7 @@ If you're attending *the real HU*,  then perhaps you realize that
 
 > HBCUS are [still] absolutely necessary for Black people as well as for the conscience of the a nation still wrestling with deeply entrenched racism and stratified opportunity structures.
 
-> [source](http://www.ebony.com/news-views/stop-asking-if-hbcus-are-relevant-392#.VPhtFIHF88Y)
+> [source](http://www.ebony.com/news-views/stop-asking-if-hbcus-are-relevant-392)
 
 **But** perhaps what you don't realize is that as a CS major at an HBCU like Hampton, what you do with your future and the role you play in that said future is more important than you think.
 

@@ -8,7 +8,7 @@
 
 - **Location** Science and Technology 120
 - **Phone** N/A
-- **E-mail** justus.nyagwencha@hamptonu.edu
+- **E-mail** N/A
 - **Expertise** Human Computer Intraction, Information Assurance, Computer archtecture, Networking and Data Communications, Databases and Programming in C++ and Java
 
 **Spring 2015**

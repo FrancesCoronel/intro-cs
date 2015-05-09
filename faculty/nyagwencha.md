@@ -8,7 +8,7 @@
 
 - **Location** Science and Technology 120
 - **Phone** (757) 727-5564
-- **E-mail** justus.nyagwencha@hamptonu.edu
+- **E-mail** [`justus.nyagwencha@hamptonu.edu`](mailto:justus.nyagwencha@hamptonu.edu)
 - **Expertise** Human Computer Intraction, Information Assurance, Computer archtecture, Networking and Data Communications, Databases and Programming in C++ and Java
 
 **Spring 2015**

@@ -7,7 +7,7 @@
 ![Dr. D](https://huacm.files.wordpress.com/2015/03/screenshot-2015-03-06-14-45-18.png)
 
 - **Location** Science and Technology 120
-- **E-mail** moayed.daneshyari@hamptonu.edu
+- **E-mail** [`moayed.daneshyari@hamptonu.edu`](mailto:moayed.daneshyari@hamptonu.edu)
 - **Expertise** Computational Intelligence, Robotics, Networking, Bio-inspired Algorithms
 
 Dr. Danesyhari became a faculty member at Hampton as of Spring 2015.
