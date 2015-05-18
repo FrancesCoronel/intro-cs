@@ -31,4 +31,3 @@
 `Open image in new tab on browser to zoom in`
 
 ![](http://cdn2.carlcheo.com/wp-content/uploads/2014/12/which-programming-language-should-i-learn-first-infographic.png)
-
